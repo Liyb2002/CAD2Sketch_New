@@ -1,0 +1,1231 @@
+{
+    "entities": {
+        "FiuCDq4ulk93SJv_0": {
+            "name": "My Sketch",
+            "type": "Sketch",
+            "profiles": {
+                "faces": [
+                    {
+                        "edges": [
+                            "JGB",
+                            "JGF",
+                            "JGJ",
+                            "JGN"
+                        ],
+                        "id": "JGC",
+                        "param": {
+                            "type": "Plane",
+                            "normal": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "origin": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ],
+                            "x": [
+                                1.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "loops_edge_ids": [
+                            [
+                                "JGF",
+                                "JGN",
+                                "JGB",
+                                "JGJ"
+                            ]
+                        ]
+                    }
+                ],
+                "edges": {
+                    "JGB": {
+                        "id": "JGB",
+                        "param": {
+                            "type": "Line",
+                            "direction": [
+                                0.0,
+                                -1.0,
+                                0.0
+                            ],
+                            "origin": [
+                                -0.005,
+                                0.005,
+                                0.0
+                            ]
+                        },
+                        "vertices": [
+                            "IG",
+                            "JGE"
+                        ]
+                    },
+                    "JGF": {
+                        "id": "JGF",
+                        "param": {
+                            "type": "Line",
+                            "direction": [
+                                1.0,
+                                0.0,
+                                0.0
+                            ],
+                            "origin": [
+                                -0.005,
+                                -0.005,
+                                0.0
+                            ]
+                        },
+                        "vertices": [
+                            "JGE",
+                            "JGI"
+                        ]
+                    },
+                    "JGJ": {
+                        "id": "JGJ",
+                        "param": {
+                            "type": "Line",
+                            "direction": [
+                                0.0,
+                                1.0,
+                                0.0
+                            ],
+                            "origin": [
+                                0.005,
+                                -0.005,
+                                0.0
+                            ]
+                        },
+                        "vertices": [
+                            "JGI",
+                            "JGM"
+                        ]
+                    },
+                    "JGN": {
+                        "id": "JGN",
+                        "param": {
+                            "type": "Line",
+                            "direction": [
+                                -1.0,
+                                0.0,
+                                0.0
+                            ],
+                            "origin": [
+                                0.005,
+                                0.005,
+                                0.0
+                            ]
+                        },
+                        "vertices": [
+                            "IG",
+                            "JGM"
+                        ]
+                    }
+                },
+                "vertices": {
+                    "IG": {
+                        "id": "IG",
+                        "param": {
+                            "Vector": [
+                                -0.005,
+                                0.005,
+                                0.0
+                            ],
+                            "unit": [
+                                "METER",
+                                1
+                            ]
+                        }
+                    },
+                    "JGE": {
+                        "id": "JGE",
+                        "param": {
+                            "Vector": [
+                                -0.005,
+                                -0.005,
+                                0.0
+                            ],
+                            "unit": [
+                                "METER",
+                                1
+                            ]
+                        }
+                    },
+                    "JGI": {
+                        "id": "JGI",
+                        "param": {
+                            "Vector": [
+                                0.005,
+                                -0.005,
+                                0.0
+                            ],
+                            "unit": [
+                                "METER",
+                                1
+                            ]
+                        }
+                    },
+                    "JGM": {
+                        "id": "JGM",
+                        "param": {
+                            "Vector": [
+                                0.005,
+                                0.005,
+                                0.0
+                            ],
+                            "unit": [
+                                "METER",
+                                1
+                            ]
+                        }
+                    },
+                    "IB": {
+                        "id": "IB",
+                        "param": {
+                            "Vector": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ],
+                            "unit": [
+                                "METER",
+                                1
+                            ]
+                        }
+                    }
+                }
+            },
+            "transform": {
+                "origin": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "z_axis": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1.0
+                },
+                "x_axis": {
+                    "x": 1.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "y_axis": {
+                    "x": 0.0,
+                    "y": 1.0,
+                    "z": 0.0
+                }
+            },
+            "reference_plane": {},
+            "constraints": []
+        },
+        "F3U8ZcUOJTDvi1R_0": {
+            "name": "Extrude 1",
+            "type": "extrude",
+            "extrude_type": "BLIND",
+            "entities": [
+                "JGC"
+            ],
+            "extent_one": 0.015,
+            "extent_two": 0.0,
+            "use_depth": true,
+            "opposite_direction": false
+        },
+        "FOhJSbWaPd1qnPg_1": {
+            "name": "My Sketch",
+            "type": "Sketch",
+            "profiles": {
+                "faces": [
+                    {
+                        "edges": [
+                            "JJB"
+                        ],
+                        "id": "JJC",
+                        "param": {
+                            "type": "Plane",
+                            "normal": [
+                                0.0,
+                                -1.0,
+                                0.0
+                            ],
+                            "origin": [
+                                0.0,
+                                -0.005,
+                                0.0075
+                            ],
+                            "x": [
+                                1.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "loops_edge_ids": [
+                            [
+                                "JJB"
+                            ]
+                        ]
+                    },
+                    {
+                        "edges": [
+                            "JJB",
+                            "JJF",
+                            "JJJ",
+                            "JJN",
+                            "JJR"
+                        ],
+                        "id": "JJG",
+                        "param": {
+                            "type": "Plane",
+                            "normal": [
+                                0.0,
+                                -1.0,
+                                0.0
+                            ],
+                            "origin": [
+                                0.0,
+                                -0.005,
+                                0.0075
+                            ],
+                            "x": [
+                                1.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "loops_edge_ids": [
+                            [
+                                "JJJ",
+                                "JJN",
+                                "JJR",
+                                "JJF"
+                            ],
+                            [
+                                "JJB"
+                            ]
+                        ]
+                    }
+                ],
+                "edges": {
+                    "JJB": {
+                        "id": "JJB",
+                        "param": {
+                            "type": "Circle",
+                            "coordSystem": {
+                                "origin": [
+                                    0.0,
+                                    -0.005,
+                                    0.0075
+                                ],
+                                "xAxis": [
+                                    0.0,
+                                    0.0,
+                                    -1.0
+                                ],
+                                "zAxis": [
+                                    0.0,
+                                    -1.0,
+                                    0.0
+                                ]
+                            },
+                            "radius": 0.0025
+                        },
+                        "vertices": []
+                    },
+                    "JJF": {
+                        "id": "JJF",
+                        "param": {
+                            "type": "Line",
+                            "direction": [
+                                0.0,
+                                0.0,
+                                -1.0
+                            ],
+                            "origin": [
+                                -0.005,
+                                -0.005,
+                                0.015
+                            ]
+                        },
+                        "vertices": [
+                            "IJ",
+                            "JJE"
+                        ]
+                    },
+                    "JJJ": {
+                        "id": "JJJ",
+                        "param": {
+                            "type": "Line",
+                            "direction": [
+                                0.0,
+                                0.0,
+                                -1.0
+                            ],
+                            "origin": [
+                                0.005,
+                                -0.005,
+                                0.015
+                            ]
+                        },
+                        "vertices": [
+                            "JJI",
+                            "JJM"
+                        ]
+                    },
+                    "JJN": {
+                        "id": "JJN",
+                        "param": {
+                            "type": "Line",
+                            "direction": [
+                                1.0,
+                                0.0,
+                                0.0
+                            ],
+                            "origin": [
+                                -0.005,
+                                -0.005,
+                                0.0
+                            ]
+                        },
+                        "vertices": [
+                            "IJ",
+                            "JJI"
+                        ]
+                    },
+                    "JJR": {
+                        "id": "JJR",
+                        "param": {
+                            "type": "Line",
+                            "direction": [
+                                1.0,
+                                0.0,
+                                0.0
+                            ],
+                            "origin": [
+                                -0.005,
+                                -0.005,
+                                0.015
+                            ]
+                        },
+                        "vertices": [
+                            "JJE",
+                            "JJM"
+                        ]
+                    }
+                },
+                "vertices": {
+                    "IJ": {
+                        "id": "IJ",
+                        "param": {
+                            "Vector": [
+                                -0.005,
+                                -0.005,
+                                0.0
+                            ],
+                            "unit": [
+                                "METER",
+                                1
+                            ]
+                        }
+                    },
+                    "JJE": {
+                        "id": "JJE",
+                        "param": {
+                            "Vector": [
+                                -0.005,
+                                -0.005,
+                                0.015
+                            ],
+                            "unit": [
+                                "METER",
+                                1
+                            ]
+                        }
+                    },
+                    "JJI": {
+                        "id": "JJI",
+                        "param": {
+                            "Vector": [
+                                0.005,
+                                -0.005,
+                                0.0
+                            ],
+                            "unit": [
+                                "METER",
+                                1
+                            ]
+                        }
+                    },
+                    "JJM": {
+                        "id": "JJM",
+                        "param": {
+                            "Vector": [
+                                0.005,
+                                -0.005,
+                                0.015
+                            ],
+                            "unit": [
+                                "METER",
+                                1
+                            ]
+                        }
+                    },
+                    "IB": {
+                        "id": "IB",
+                        "param": {
+                            "Vector": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ],
+                            "unit": [
+                                "METER",
+                                1
+                            ]
+                        }
+                    }
+                }
+            },
+            "transform": {
+                "origin": {
+                    "x": 0.0,
+                    "y": -0.005,
+                    "z": 0.0075
+                },
+                "z_axis": {
+                    "x": 0.0,
+                    "y": -1.0,
+                    "z": 0.0
+                },
+                "x_axis": {
+                    "x": 1.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "y_axis": {
+                    "x": -0.0,
+                    "y": 0.0,
+                    "z": 1.0
+                }
+            },
+            "reference_plane": {},
+            "constraints": []
+        },
+        "FNRdMl8zN6B1TAV_1": {
+            "name": "Extrude 1",
+            "type": "extrude",
+            "extrude_type": "UP_TO_NEXT",
+            "entities": [
+                "JJC"
+            ],
+            "extent_one": -0.01,
+            "extent_two": 0.0,
+            "use_depth": false,
+            "opposite_direction": true
+        },
+        "FHPaQ9iDTVaFEbR_1": {
+            "name": "My Sketch",
+            "type": "Sketch",
+            "profiles": {
+                "faces": [
+                    {
+                        "edges": [
+                            "JNB",
+                            "JNF",
+                            "JNJ",
+                            "JNN"
+                        ],
+                        "id": "JNC",
+                        "param": {
+                            "type": "Plane",
+                            "normal": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "origin": [
+                                -0.0025,
+                                0.0,
+                                0.015
+                            ],
+                            "x": [
+                                1.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "loops_edge_ids": [
+                            [
+                                "JNF",
+                                "JNN",
+                                "JNB",
+                                "JNJ"
+                            ]
+                        ]
+                    },
+                    {
+                        "edges": [
+                            "JNF",
+                            "JNJ",
+                            "JNN",
+                            "JNR",
+                            "JNV",
+                            "JNZ",
+                            "JNd",
+                            "JNh"
+                        ],
+                        "id": "JNG",
+                        "param": {
+                            "type": "Plane",
+                            "normal": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "origin": [
+                                0.0,
+                                0.0,
+                                0.015
+                            ],
+                            "x": [
+                                1.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        "loops_edge_ids": [
+                            [
+                                "JNd",
+                                "JNF",
+                                "JNV",
+                                "JNh",
+                                "JNN",
+                                "JNJ",
+                                "JNZ",
+                                "JNR"
+                            ]
+                        ]
+                    }
+                ],
+                "edges": {
+                    "JNB": {
+                        "id": "JNB",
+                        "param": {
+                            "type": "Line",
+                            "direction": [
+                                0.0,
+                                -1.0,
+                                0.0
+                            ],
+                            "origin": [
+                                -0.005,
+                                0.0025,
+                                0.015
+                            ]
+                        },
+                        "vertices": [
+                            "JNQ",
+                            "JNU"
+                        ]
+                    },
+                    "JNF": {
+                        "id": "JNF",
+                        "param": {
+                            "type": "Line",
+                            "direction": [
+                                1.0,
+                                0.0,
+                                0.0
+                            ],
+                            "origin": [
+                                -0.005,
+                                -0.0025,
+                                0.015
+                            ]
+                        },
+                        "vertices": [
+                            "JNU",
+                            "JNY"
+                        ]
+                    },
+                    "JNJ": {
+                        "id": "JNJ",
+                        "param": {
+                            "type": "Line",
+                            "direction": [
+                                0.0,
+                                1.0,
+                                0.0
+                            ],
+                            "origin": [
+                                0.0,
+                                -0.0025,
+                                0.015
+                            ]
+                        },
+                        "vertices": [
+                            "JNY",
+                            "JNc"
+                        ]
+                    },
+                    "JNN": {
+                        "id": "JNN",
+                        "param": {
+                            "type": "Line",
+                            "direction": [
+                                -1.0,
+                                0.0,
+                                0.0
+                            ],
+                            "origin": [
+                                0.0,
+                                0.0025,
+                                0.015
+                            ]
+                        },
+                        "vertices": [
+                            "JNQ",
+                            "JNc"
+                        ]
+                    },
+                    "JNR": {
+                        "id": "JNR",
+                        "param": {
+                            "type": "Line",
+                            "direction": [
+                                1.0,
+                                0.0,
+                                0.0
+                            ],
+                            "origin": [
+                                -0.005,
+                                -0.005,
+                                0.015
+                            ]
+                        },
+                        "vertices": [
+                            "JNE",
+                            "JNI"
+                        ]
+                    },
+                    "JNV": {
+                        "id": "JNV",
+                        "param": {
+                            "type": "Line",
+                            "direction": [
+                                0.0,
+                                1.0,
+                                0.0
+                            ],
+                            "origin": [
+                                0.005,
+                                -0.005,
+                                0.015
+                            ]
+                        },
+                        "vertices": [
+                            "JNI",
+                            "JNM"
+                        ]
+                    },
+                    "JNZ": {
+                        "id": "JNZ",
+                        "param": {
+                            "type": "Line",
+                            "direction": [
+                                -1.0,
+                                0.0,
+                                0.0
+                            ],
+                            "origin": [
+                                0.005,
+                                0.005,
+                                0.015
+                            ]
+                        },
+                        "vertices": [
+                            "IN",
+                            "JNM"
+                        ]
+                    },
+                    "JNd": {
+                        "id": "JNd",
+                        "param": {
+                            "type": "Line",
+                            "direction": [
+                                0.0,
+                                -1.0,
+                                0.0
+                            ],
+                            "origin": [
+                                -0.005,
+                                0.005,
+                                0.015
+                            ]
+                        },
+                        "vertices": [
+                            "IN",
+                            "JNQ"
+                        ]
+                    },
+                    "JNh": {
+                        "id": "JNh",
+                        "param": {
+                            "type": "Line",
+                            "direction": [
+                                0.0,
+                                -1.0,
+                                0.0
+                            ],
+                            "origin": [
+                                -0.005,
+                                -0.0025,
+                                0.015
+                            ]
+                        },
+                        "vertices": [
+                            "JNE",
+                            "JNU"
+                        ]
+                    }
+                },
+                "vertices": {
+                    "JNQ": {
+                        "id": "JNQ",
+                        "param": {
+                            "Vector": [
+                                -0.005,
+                                0.0025,
+                                0.015
+                            ],
+                            "unit": [
+                                "METER",
+                                1
+                            ]
+                        }
+                    },
+                    "JNU": {
+                        "id": "JNU",
+                        "param": {
+                            "Vector": [
+                                -0.005,
+                                -0.0025,
+                                0.015
+                            ],
+                            "unit": [
+                                "METER",
+                                1
+                            ]
+                        }
+                    },
+                    "JNY": {
+                        "id": "JNY",
+                        "param": {
+                            "Vector": [
+                                0.0,
+                                -0.0025,
+                                0.015
+                            ],
+                            "unit": [
+                                "METER",
+                                1
+                            ]
+                        }
+                    },
+                    "JNc": {
+                        "id": "JNc",
+                        "param": {
+                            "Vector": [
+                                0.0,
+                                0.0025,
+                                0.015
+                            ],
+                            "unit": [
+                                "METER",
+                                1
+                            ]
+                        }
+                    },
+                    "JNE": {
+                        "id": "JNE",
+                        "param": {
+                            "Vector": [
+                                -0.005,
+                                -0.005,
+                                0.015
+                            ],
+                            "unit": [
+                                "METER",
+                                1
+                            ]
+                        }
+                    },
+                    "JNI": {
+                        "id": "JNI",
+                        "param": {
+                            "Vector": [
+                                0.005,
+                                -0.005,
+                                0.015
+                            ],
+                            "unit": [
+                                "METER",
+                                1
+                            ]
+                        }
+                    },
+                    "JNM": {
+                        "id": "JNM",
+                        "param": {
+                            "Vector": [
+                                0.005,
+                                0.005,
+                                0.015
+                            ],
+                            "unit": [
+                                "METER",
+                                1
+                            ]
+                        }
+                    },
+                    "IN": {
+                        "id": "IN",
+                        "param": {
+                            "Vector": [
+                                -0.005,
+                                0.005,
+                                0.015
+                            ],
+                            "unit": [
+                                "METER",
+                                1
+                            ]
+                        }
+                    },
+                    "IB": {
+                        "id": "IB",
+                        "param": {
+                            "Vector": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ],
+                            "unit": [
+                                "METER",
+                                1
+                            ]
+                        }
+                    }
+                }
+            },
+            "transform": {
+                "origin": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.015
+                },
+                "z_axis": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1.0
+                },
+                "x_axis": {
+                    "x": 1.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "y_axis": {
+                    "x": 0.0,
+                    "y": 1.0,
+                    "z": 0.0
+                }
+            },
+            "reference_plane": {},
+            "constraints": []
+        },
+        "FW6tFMRxJuCLZZS_1": {
+            "name": "Extrude 1",
+            "type": "extrude",
+            "extrude_type": "BLIND",
+            "entities": [
+                "JNC"
+            ],
+            "extent_one": 0.0025,
+            "extent_two": 0.0,
+            "use_depth": true,
+            "opposite_direction": false
+        },
+        "Fzk0QzArlmLCvjL_1": {
+            "name": "Fillet 1",
+            "type": "fillet",
+            "entities": [
+                "JHR",
+                "JHl"
+            ],
+            "radius": 0.0030010386013812973,
+            "fillet_projection_constraints": [
+                {
+                    "constraintType": "HORIZONTAL",
+                    "first_3d": [
+                        -0.005,
+                        0.005,
+                        0.0
+                    ],
+                    "second_3d": [
+                        -0.005,
+                        0.005,
+                        0.0030010387
+                    ]
+                },
+                {
+                    "constraintType": "HORIZONTAL",
+                    "first_3d": [
+                        -0.005,
+                        0.005,
+                        0.0
+                    ],
+                    "second_3d": [
+                        -0.0019989614,
+                        0.005,
+                        0.0
+                    ]
+                },
+                {
+                    "constraintType": "HORIZONTAL",
+                    "first_3d": [
+                        -0.0019989614,
+                        0.005,
+                        0.0
+                    ],
+                    "second_3d": [
+                        -0.0019989614,
+                        0.005,
+                        0.0030010387
+                    ]
+                },
+                {
+                    "constraintType": "HORIZONTAL",
+                    "first_3d": [
+                        -0.005,
+                        0.005,
+                        0.0030010387
+                    ],
+                    "second_3d": [
+                        -0.0019989614,
+                        0.005,
+                        0.0030010387
+                    ]
+                },
+                {
+                    "constraintType": "HORIZONTAL",
+                    "first_3d": [
+                        -0.005,
+                        -0.005,
+                        0.0
+                    ],
+                    "second_3d": [
+                        -0.005,
+                        -0.005,
+                        0.0030010387
+                    ]
+                },
+                {
+                    "constraintType": "HORIZONTAL",
+                    "first_3d": [
+                        -0.005,
+                        -0.005,
+                        0.0
+                    ],
+                    "second_3d": [
+                        -0.0019989614,
+                        -0.005,
+                        0.0
+                    ]
+                },
+                {
+                    "constraintType": "HORIZONTAL",
+                    "first_3d": [
+                        -0.0019989614,
+                        -0.005,
+                        0.0
+                    ],
+                    "second_3d": [
+                        -0.0019989614,
+                        -0.005,
+                        0.0030010387
+                    ]
+                },
+                {
+                    "constraintType": "HORIZONTAL",
+                    "first_3d": [
+                        -0.005,
+                        -0.005,
+                        0.0030010387
+                    ],
+                    "second_3d": [
+                        -0.0019989614,
+                        -0.005,
+                        0.0030010387
+                    ]
+                },
+                {
+                    "constraintType": "HORIZONTAL",
+                    "first_3d": [
+                        0.005,
+                        -0.005,
+                        0.015
+                    ],
+                    "second_3d": [
+                        0.0019989614,
+                        -0.005,
+                        0.015
+                    ]
+                },
+                {
+                    "constraintType": "HORIZONTAL",
+                    "first_3d": [
+                        0.005,
+                        -0.005,
+                        0.015
+                    ],
+                    "second_3d": [
+                        0.005,
+                        -0.005,
+                        0.011998962
+                    ]
+                },
+                {
+                    "constraintType": "HORIZONTAL",
+                    "first_3d": [
+                        0.005,
+                        -0.005,
+                        0.011998962
+                    ],
+                    "second_3d": [
+                        0.0019989614,
+                        -0.005,
+                        0.011998962
+                    ]
+                },
+                {
+                    "constraintType": "HORIZONTAL",
+                    "first_3d": [
+                        0.0019989614,
+                        -0.005,
+                        0.015
+                    ],
+                    "second_3d": [
+                        0.0019989614,
+                        -0.005,
+                        0.011998962
+                    ]
+                },
+                {
+                    "constraintType": "HORIZONTAL",
+                    "first_3d": [
+                        0.005,
+                        0.005,
+                        0.015
+                    ],
+                    "second_3d": [
+                        0.0019989614,
+                        0.005,
+                        0.015
+                    ]
+                },
+                {
+                    "constraintType": "HORIZONTAL",
+                    "first_3d": [
+                        0.005,
+                        0.005,
+                        0.015
+                    ],
+                    "second_3d": [
+                        0.005,
+                        0.005,
+                        0.011998962
+                    ]
+                },
+                {
+                    "constraintType": "HORIZONTAL",
+                    "first_3d": [
+                        0.005,
+                        0.005,
+                        0.011998962
+                    ],
+                    "second_3d": [
+                        0.0019989614,
+                        0.005,
+                        0.011998962
+                    ]
+                },
+                {
+                    "constraintType": "HORIZONTAL",
+                    "first_3d": [
+                        0.0019989614,
+                        0.005,
+                        0.015
+                    ],
+                    "second_3d": [
+                        0.0019989614,
+                        0.005,
+                        0.011998962
+                    ]
+                }
+            ]
+        }
+    },
+    "properties": {
+        "bounding_box": {
+            "type": "BoundingBox3D",
+            "max_point": {
+                "x": 0.005,
+                "y": 0.005,
+                "z": 0.017499999999999998
+            },
+            "min_point": {
+                "x": -0.005,
+                "y": -0.005,
+                "z": -8.673617379884035e-19
+            }
+        }
+    },
+    "sequence": [
+        {
+            "index": 0,
+            "type": "Sketch",
+            "entity": "FiuCDq4ulk93SJv_0"
+        },
+        {
+            "index": 1,
+            "type": "extrude",
+            "entity": "F3U8ZcUOJTDvi1R_0"
+        },
+        {
+            "index": 2,
+            "type": "Sketch",
+            "entity": "FOhJSbWaPd1qnPg_1"
+        },
+        {
+            "index": 3,
+            "type": "extrude",
+            "entity": "FNRdMl8zN6B1TAV_1"
+        },
+        {
+            "index": 4,
+            "type": "Sketch",
+            "entity": "FHPaQ9iDTVaFEbR_1"
+        },
+        {
+            "index": 5,
+            "type": "extrude",
+            "entity": "FW6tFMRxJuCLZZS_1"
+        },
+        {
+            "index": 6,
+            "type": "fillet",
+            "entity": "Fzk0QzArlmLCvjL_1"
+        }
+    ]
+}

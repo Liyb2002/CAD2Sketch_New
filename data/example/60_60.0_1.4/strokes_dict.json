@@ -1,0 +1,5488 @@
+[
+    {
+        "id": 0,
+        "intersections": [],
+        "type": "feature_line",
+        "previous_strokes": [],
+        "planes": [
+            0,
+            1
+        ],
+        "anchor_intersections": [],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [
+            1
+        ],
+        "original_feature_line": true,
+        "feature_id": 0,
+        "occlusions": []
+    },
+    {
+        "id": 1,
+        "intersections": [
+            [
+                0
+            ]
+        ],
+        "type": "feature_line",
+        "previous_strokes": [
+            0
+        ],
+        "planes": [
+            2,
+            1
+        ],
+        "anchor_intersections": [
+            [
+                0
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 0,
+        "occlusions": []
+    },
+    {
+        "id": 2,
+        "intersections": [
+            [
+                1
+            ]
+        ],
+        "type": "feature_line",
+        "previous_strokes": [
+            1
+        ],
+        "planes": [
+            3,
+            1
+        ],
+        "anchor_intersections": [
+            [
+                1
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [
+            5
+        ],
+        "original_feature_line": true,
+        "feature_id": 0,
+        "occlusions": []
+    },
+    {
+        "id": 3,
+        "intersections": [
+            [
+                0
+            ],
+            [
+                2
+            ]
+        ],
+        "type": "feature_line",
+        "previous_strokes": [
+            0,
+            2
+        ],
+        "planes": [
+            4,
+            1
+        ],
+        "anchor_intersections": [
+            [
+                0
+            ],
+            [
+                2
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 0,
+        "occlusions": []
+    },
+    {
+        "id": 4,
+        "intersections": [
+            [
+                0,
+                1
+            ]
+        ],
+        "type": "extrude_line",
+        "previous_strokes": [
+            0,
+            1
+        ],
+        "planes": [
+            2,
+            0
+        ],
+        "anchor_intersections": [
+            [
+                0,
+                1
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [
+            0
+        ],
+        "original_feature_line": true,
+        "feature_id": 1,
+        "occlusions": []
+    },
+    {
+        "id": 5,
+        "intersections": [
+            [
+                0,
+                3
+            ]
+        ],
+        "type": "extrude_line",
+        "previous_strokes": [
+            0,
+            3
+        ],
+        "planes": [
+            4,
+            0
+        ],
+        "anchor_intersections": [
+            [
+                0,
+                3
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [
+            13
+        ],
+        "original_feature_line": true,
+        "feature_id": 1,
+        "occlusions": [
+            2
+        ]
+    },
+    {
+        "id": 6,
+        "intersections": [
+            [
+                4
+            ],
+            [
+                5
+            ]
+        ],
+        "type": "feature_line",
+        "previous_strokes": [
+            4,
+            5
+        ],
+        "planes": [
+            0,
+            5
+        ],
+        "anchor_intersections": [
+            [
+                4
+            ],
+            [
+                5
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [
+            12
+        ],
+        "original_feature_line": true,
+        "feature_id": 1,
+        "occlusions": []
+    },
+    {
+        "id": 7,
+        "intersections": [
+            [
+                1,
+                2
+            ]
+        ],
+        "type": "extrude_line",
+        "previous_strokes": [
+            1,
+            2
+        ],
+        "planes": [
+            2,
+            3
+        ],
+        "anchor_intersections": [
+            [
+                1,
+                2
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [
+            4
+        ],
+        "original_feature_line": true,
+        "feature_id": 1,
+        "occlusions": [
+            6
+        ]
+    },
+    {
+        "id": 8,
+        "intersections": [
+            [
+                4,
+                6
+            ],
+            [
+                7
+            ]
+        ],
+        "type": "feature_line",
+        "previous_strokes": [
+            4,
+            6,
+            7
+        ],
+        "planes": [
+            2,
+            5
+        ],
+        "anchor_intersections": [
+            [
+                7
+            ],
+            [
+                4,
+                6
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 1,
+        "occlusions": []
+    },
+    {
+        "id": 9,
+        "intersections": [
+            [
+                2,
+                3
+            ]
+        ],
+        "type": "extrude_line",
+        "previous_strokes": [
+            2,
+            3
+        ],
+        "planes": [
+            4,
+            3
+        ],
+        "anchor_intersections": [
+            [
+                2,
+                3
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [
+            9
+        ],
+        "original_feature_line": true,
+        "feature_id": 1,
+        "occlusions": []
+    },
+    {
+        "id": 10,
+        "intersections": [
+            [
+                7,
+                8
+            ],
+            [
+                9
+            ]
+        ],
+        "type": "feature_line",
+        "previous_strokes": [
+            7,
+            8,
+            9
+        ],
+        "planes": [
+            3,
+            5
+        ],
+        "anchor_intersections": [
+            [
+                9
+            ],
+            [
+                7,
+                8
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [
+            8
+        ],
+        "original_feature_line": true,
+        "feature_id": 1,
+        "occlusions": []
+    },
+    {
+        "id": 11,
+        "intersections": [
+            [
+                5,
+                6
+            ],
+            [
+                9,
+                10
+            ]
+        ],
+        "type": "feature_line",
+        "previous_strokes": [
+            5,
+            6,
+            9,
+            10
+        ],
+        "planes": [
+            4,
+            5
+        ],
+        "anchor_intersections": [
+            [
+                9,
+                10
+            ],
+            [
+                5,
+                6
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 1,
+        "occlusions": []
+    },
+    {
+        "id": 12,
+        "intersections": [
+            [
+                0
+            ],
+            [
+                2
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            0,
+            2
+        ],
+        "planes": [
+            6,
+            1
+        ],
+        "anchor_intersections": [
+            [
+                0
+            ],
+            [
+                2
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 2,
+        "occlusions": []
+    },
+    {
+        "id": 13,
+        "intersections": [
+            [
+                0
+            ],
+            [
+                2
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            0,
+            2
+        ],
+        "planes": [
+            7,
+            1
+        ],
+        "anchor_intersections": [
+            [
+                0
+            ],
+            [
+                2
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 2,
+        "occlusions": [
+            5
+        ]
+    },
+    {
+        "id": 14,
+        "intersections": [
+            [
+                6
+            ],
+            [
+                10
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            6,
+            10
+        ],
+        "planes": [
+            6,
+            5
+        ],
+        "anchor_intersections": [
+            [
+                6
+            ],
+            [
+                10
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 2,
+        "occlusions": [
+            7
+        ]
+    },
+    {
+        "id": 15,
+        "intersections": [
+            [
+                6
+            ],
+            [
+                10
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            6,
+            10
+        ],
+        "planes": [
+            7,
+            5
+        ],
+        "anchor_intersections": [
+            [
+                6
+            ],
+            [
+                10
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 2,
+        "occlusions": []
+    },
+    {
+        "id": 16,
+        "intersections": [
+            [
+                5
+            ],
+            [
+                9
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            5,
+            9
+        ],
+        "planes": [
+            4,
+            8
+        ],
+        "anchor_intersections": [
+            [
+                9
+            ],
+            [
+                5
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 2,
+        "occlusions": []
+    },
+    {
+        "id": 17,
+        "intersections": [
+            [
+                5
+            ],
+            [
+                9
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            5,
+            9
+        ],
+        "planes": [
+            4,
+            9
+        ],
+        "anchor_intersections": [
+            [
+                9
+            ],
+            [
+                5
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 2,
+        "occlusions": [
+            2
+        ]
+    },
+    {
+        "id": 18,
+        "intersections": [
+            [
+                7
+            ],
+            [
+                9,
+                16
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            7,
+            9,
+            16
+        ],
+        "planes": [
+            3,
+            8
+        ],
+        "anchor_intersections": [
+            [
+                9,
+                16
+            ],
+            [
+                7
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 2,
+        "occlusions": [
+            11,
+            15
+        ]
+    },
+    {
+        "id": 19,
+        "intersections": [
+            [
+                7
+            ],
+            [
+                9,
+                17
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            7,
+            9,
+            17
+        ],
+        "planes": [
+            3,
+            9
+        ],
+        "anchor_intersections": [
+            [
+                7
+            ],
+            [
+                9,
+                17
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 2,
+        "occlusions": [
+            16
+        ]
+    },
+    {
+        "id": 20,
+        "intersections": [
+            [
+                2,
+                12
+            ],
+            [
+                10,
+                14
+            ],
+            [
+                18
+            ],
+            [
+                19
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            2,
+            10,
+            12,
+            14,
+            18,
+            19
+        ],
+        "planes": [
+            6,
+            3
+        ],
+        "anchor_intersections": [
+            [
+                2,
+                12
+            ],
+            [
+                10,
+                14
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 2,
+        "occlusions": [
+            6,
+            15
+        ]
+    },
+    {
+        "id": 21,
+        "intersections": [
+            [
+                2,
+                13
+            ],
+            [
+                10,
+                15
+            ],
+            [
+                18
+            ],
+            [
+                19
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            2,
+            10,
+            13,
+            15,
+            18,
+            19
+        ],
+        "planes": [
+            7,
+            3
+        ],
+        "anchor_intersections": [
+            [
+                10,
+                15
+            ],
+            [
+                2,
+                13
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 2,
+        "occlusions": [
+            11,
+            16
+        ]
+    },
+    {
+        "id": 22,
+        "intersections": [
+            [
+                4
+            ],
+            [
+                5,
+                16
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            4,
+            5,
+            16
+        ],
+        "planes": [
+            0,
+            8
+        ],
+        "anchor_intersections": [
+            [
+                5,
+                16
+            ],
+            [
+                4
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 2,
+        "occlusions": [
+            7,
+            20
+        ]
+    },
+    {
+        "id": 23,
+        "intersections": [
+            [
+                4
+            ],
+            [
+                5,
+                17
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            4,
+            5,
+            17
+        ],
+        "planes": [
+            0,
+            9
+        ],
+        "anchor_intersections": [
+            [
+                5,
+                17
+            ],
+            [
+                4
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 2,
+        "occlusions": [
+            1,
+            12,
+            13
+        ]
+    },
+    {
+        "id": 24,
+        "intersections": [
+            [
+                0,
+                12
+            ],
+            [
+                6,
+                14
+            ],
+            [
+                22
+            ],
+            [
+                23
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            0,
+            6,
+            12,
+            14,
+            22,
+            23
+        ],
+        "planes": [
+            6,
+            0
+        ],
+        "anchor_intersections": [
+            [
+                0,
+                12
+            ],
+            [
+                6,
+                14
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 2,
+        "occlusions": [
+            1
+        ]
+    },
+    {
+        "id": 25,
+        "intersections": [
+            [
+                0,
+                13
+            ],
+            [
+                6,
+                15
+            ],
+            [
+                22
+            ],
+            [
+                23
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            0,
+            6,
+            13,
+            15,
+            22,
+            23
+        ],
+        "planes": [
+            7,
+            0
+        ],
+        "anchor_intersections": [
+            [
+                0,
+                13
+            ],
+            [
+                6,
+                15
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 2,
+        "occlusions": [
+            2,
+            12,
+            19
+        ]
+    },
+    {
+        "id": 26,
+        "intersections": [
+            [
+                4,
+                22
+            ],
+            [
+                7,
+                18
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            4,
+            7,
+            18,
+            22
+        ],
+        "planes": [
+            2,
+            8
+        ],
+        "anchor_intersections": [
+            [
+                4,
+                22
+            ],
+            [
+                7,
+                18
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 2,
+        "occlusions": [
+            6,
+            24
+        ]
+    },
+    {
+        "id": 27,
+        "intersections": [
+            [
+                4,
+                23
+            ],
+            [
+                7,
+                19
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            4,
+            7,
+            19,
+            23
+        ],
+        "planes": [
+            2,
+            9
+        ],
+        "anchor_intersections": [
+            [
+                4,
+                23
+            ],
+            [
+                7,
+                19
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 2,
+        "occlusions": [
+            24
+        ]
+    },
+    {
+        "id": 28,
+        "intersections": [
+            [
+                18,
+                20
+            ],
+            [
+                22,
+                24
+            ]
+        ],
+        "type": "extrude_line",
+        "previous_strokes": [
+            18,
+            20,
+            22,
+            24
+        ],
+        "planes": [
+            6,
+            8
+        ],
+        "anchor_intersections": [
+            [
+                22,
+                24
+            ],
+            [
+                18,
+                20
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 2,
+        "occlusions": [
+            6,
+            7,
+            25
+        ]
+    },
+    {
+        "id": 29,
+        "intersections": [
+            [
+                2,
+                12
+            ],
+            [
+                18,
+                28
+            ],
+            [
+                19
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            2,
+            12,
+            18,
+            19,
+            20,
+            28
+        ],
+        "planes": [
+            6,
+            3
+        ],
+        "anchor_intersections": [
+            [
+                18,
+                28
+            ],
+            [
+                2,
+                12
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            20
+        ],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 2,
+        "occlusions": [
+            6,
+            22
+        ]
+    },
+    {
+        "id": 30,
+        "intersections": [
+            [
+                18,
+                21
+            ],
+            [
+                22,
+                25
+            ]
+        ],
+        "type": "extrude_line",
+        "previous_strokes": [
+            18,
+            21,
+            22,
+            25
+        ],
+        "planes": [
+            7,
+            8
+        ],
+        "anchor_intersections": [
+            [
+                18,
+                21
+            ],
+            [
+                22,
+                25
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 2,
+        "occlusions": [
+            5,
+            19,
+            20,
+            29
+        ]
+    },
+    {
+        "id": 31,
+        "intersections": [
+            [
+                2,
+                13
+            ],
+            [
+                18,
+                30
+            ],
+            [
+                19
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            2,
+            13,
+            18,
+            19,
+            21,
+            30
+        ],
+        "planes": [
+            7,
+            3
+        ],
+        "anchor_intersections": [
+            [
+                18,
+                30
+            ],
+            [
+                2,
+                13
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            21
+        ],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 2,
+        "occlusions": [
+            16
+        ]
+    },
+    {
+        "id": 32,
+        "intersections": [
+            [
+                19,
+                20,
+                29
+            ],
+            [
+                23,
+                24
+            ]
+        ],
+        "type": "extrude_line",
+        "previous_strokes": [
+            19,
+            20,
+            23,
+            24,
+            29
+        ],
+        "planes": [
+            6,
+            9
+        ],
+        "anchor_intersections": [
+            [
+                19,
+                20,
+                29
+            ],
+            [
+                23,
+                24
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 2,
+        "occlusions": [
+            7,
+            22,
+            25
+        ]
+    },
+    {
+        "id": 33,
+        "intersections": [
+            [
+                2,
+                12
+            ],
+            [
+                19,
+                32
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            2,
+            12,
+            19,
+            20,
+            29,
+            32
+        ],
+        "planes": [
+            6,
+            3
+        ],
+        "anchor_intersections": [
+            [
+                19,
+                32
+            ],
+            [
+                2,
+                12
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            20,
+            29
+        ],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 2,
+        "occlusions": [
+            22,
+            30
+        ]
+    },
+    {
+        "id": 34,
+        "intersections": [
+            [
+                19,
+                21,
+                31
+            ],
+            [
+                23,
+                25
+            ]
+        ],
+        "type": "extrude_line",
+        "previous_strokes": [
+            19,
+            21,
+            23,
+            25,
+            31
+        ],
+        "planes": [
+            7,
+            9
+        ],
+        "anchor_intersections": [
+            [
+                23,
+                25
+            ],
+            [
+                19,
+                21,
+                31
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 2,
+        "occlusions": [
+            2,
+            5
+        ]
+    },
+    {
+        "id": 35,
+        "intersections": [
+            [
+                2,
+                13
+            ],
+            [
+                19,
+                34
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            2,
+            13,
+            19,
+            21,
+            31,
+            34
+        ],
+        "planes": [
+            7,
+            3
+        ],
+        "anchor_intersections": [
+            [
+                19,
+                34
+            ],
+            [
+                2,
+                13
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            21,
+            31
+        ],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 2,
+        "occlusions": []
+    },
+    {
+        "id": 36,
+        "intersections": [
+            [
+                20,
+                28,
+                29
+            ],
+            [
+                21,
+                30,
+                31
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            18,
+            20,
+            21,
+            28,
+            29,
+            30,
+            31
+        ],
+        "planes": [
+            3,
+            8
+        ],
+        "anchor_intersections": [
+            [
+                21,
+                30,
+                31
+            ],
+            [
+                20,
+                28,
+                29
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            18
+        ],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 2,
+        "occlusions": [
+            11
+        ]
+    },
+    {
+        "id": 37,
+        "intersections": [
+            [
+                18,
+                28,
+                36
+            ],
+            [
+                33,
+                19,
+                32
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            18,
+            19,
+            20,
+            28,
+            29,
+            32,
+            33,
+            36
+        ],
+        "planes": [
+            6,
+            3
+        ],
+        "anchor_intersections": [
+            [
+                18,
+                28,
+                36
+            ],
+            [
+                19,
+                32,
+                33
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            20,
+            29
+        ],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 2,
+        "occlusions": [
+            6,
+            20
+        ]
+    },
+    {
+        "id": 38,
+        "intersections": [
+            [
+                18,
+                30,
+                36
+            ],
+            [
+                35,
+                19,
+                34
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            18,
+            19,
+            21,
+            30,
+            31,
+            34,
+            35,
+            36
+        ],
+        "planes": [
+            7,
+            3
+        ],
+        "anchor_intersections": [
+            [
+                18,
+                30,
+                36
+            ],
+            [
+                19,
+                34,
+                35
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            21,
+            31
+        ],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 2,
+        "occlusions": [
+            16,
+            21
+        ]
+    },
+    {
+        "id": 39,
+        "intersections": [
+            [
+                20,
+                29,
+                32,
+                33,
+                37
+            ],
+            [
+                21,
+                31,
+                34,
+                35,
+                38
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            19,
+            20,
+            21,
+            29,
+            31,
+            32,
+            33,
+            34,
+            35,
+            37,
+            38
+        ],
+        "planes": [
+            3,
+            9
+        ],
+        "anchor_intersections": [
+            [
+                20,
+                29,
+                32,
+                33,
+                37
+            ],
+            [
+                21,
+                31,
+                34,
+                35,
+                38
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            19
+        ],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 2,
+        "occlusions": [
+            16,
+            30
+        ]
+    },
+    {
+        "id": 40,
+        "intersections": [
+            [
+                18
+            ],
+            [
+                19
+            ],
+            [
+                20
+            ],
+            [
+                38,
+                21,
+                31
+            ],
+            [
+                29,
+                37
+            ],
+            [
+                36
+            ],
+            [
+                39
+            ]
+        ],
+        "type": "sketch",
+        "previous_strokes": [
+            18,
+            19,
+            20,
+            21,
+            29,
+            31,
+            36,
+            37,
+            38,
+            39
+        ],
+        "planes": [
+            -1
+        ],
+        "anchor_intersections": [
+            [
+                36
+            ],
+            [
+                39
+            ]
+        ],
+        "tangent_intersections": [
+            [
+                20
+            ],
+            [
+                21,
+                31,
+                38
+            ]
+        ],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 2,
+        "occlusions": [
+            6
+        ]
+    },
+    {
+        "id": 41,
+        "intersections": [
+            [
+                24,
+                28
+            ],
+            [
+                25,
+                30
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            22,
+            24,
+            25,
+            28,
+            30
+        ],
+        "planes": [
+            0,
+            8
+        ],
+        "anchor_intersections": [
+            [
+                25,
+                30
+            ],
+            [
+                24,
+                28
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            22
+        ],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 3,
+        "occlusions": [
+            7,
+            32
+        ]
+    },
+    {
+        "id": 42,
+        "intersections": [
+            [
+                22,
+                28,
+                41
+            ],
+            [
+                23,
+                32
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            22,
+            23,
+            24,
+            28,
+            32,
+            41
+        ],
+        "planes": [
+            6,
+            0
+        ],
+        "anchor_intersections": [
+            [
+                22,
+                28,
+                41
+            ],
+            [
+                23,
+                32
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            24
+        ],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 3,
+        "occlusions": [
+            27
+        ]
+    },
+    {
+        "id": 43,
+        "intersections": [
+            [
+                22,
+                30,
+                41
+            ],
+            [
+                23,
+                34
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            22,
+            23,
+            25,
+            30,
+            34,
+            41
+        ],
+        "planes": [
+            7,
+            0
+        ],
+        "anchor_intersections": [
+            [
+                23,
+                34
+            ],
+            [
+                22,
+                30,
+                41
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            25
+        ],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 3,
+        "occlusions": [
+            2,
+            12
+        ]
+    },
+    {
+        "id": 44,
+        "intersections": [
+            [
+                24,
+                32,
+                42
+            ],
+            [
+                25,
+                34,
+                43
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            23,
+            24,
+            25,
+            32,
+            34,
+            42,
+            43
+        ],
+        "planes": [
+            0,
+            9
+        ],
+        "anchor_intersections": [
+            [
+                25,
+                34,
+                43
+            ],
+            [
+                24,
+                32,
+                42
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            23
+        ],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 3,
+        "occlusions": [
+            1,
+            12
+        ]
+    },
+    {
+        "id": 45,
+        "intersections": [
+            [
+                18
+            ],
+            [
+                19,
+                39
+            ],
+            [
+                20,
+                37
+            ],
+            [
+                21,
+                31
+            ],
+            [
+                29
+            ],
+            [
+                36
+            ],
+            [
+                38
+            ]
+        ],
+        "type": "feature_line",
+        "previous_strokes": [
+            18,
+            19,
+            20,
+            21,
+            29,
+            31,
+            36,
+            37,
+            38,
+            39
+        ],
+        "planes": [
+            -1
+        ],
+        "anchor_intersections": [
+            [
+                29
+            ],
+            [
+                38
+            ]
+        ],
+        "tangent_intersections": [
+            [
+                19,
+                39
+            ],
+            [
+                21,
+                31
+            ]
+        ],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 3,
+        "occlusions": [
+            6
+        ]
+    },
+    {
+        "id": 46,
+        "intersections": [
+            [
+                22
+            ],
+            [
+                23,
+                44
+            ],
+            [
+                24
+            ],
+            [
+                25
+            ],
+            [
+                41
+            ],
+            [
+                42
+            ],
+            [
+                43
+            ]
+        ],
+        "type": "feature_line",
+        "previous_strokes": [
+            22,
+            23,
+            24,
+            25,
+            41,
+            42,
+            43,
+            44
+        ],
+        "planes": [
+            -1
+        ],
+        "anchor_intersections": [
+            [
+                24
+            ],
+            [
+                43
+            ]
+        ],
+        "tangent_intersections": [
+            [
+                23,
+                44
+            ],
+            [
+                25
+            ]
+        ],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 3,
+        "occlusions": [
+            1,
+            2,
+            7
+        ]
+    },
+    {
+        "id": 47,
+        "intersections": [
+            [
+                40,
+                45
+            ],
+            [
+                46
+            ]
+        ],
+        "type": "silhouette_line",
+        "previous_strokes": [
+            40,
+            45,
+            46
+        ],
+        "planes": [
+            -1
+        ],
+        "anchor_intersections": [
+            [
+                46
+            ],
+            [
+                40,
+                45
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 3,
+        "occlusions": [
+            2,
+            5,
+            19,
+            22,
+            25,
+            39,
+            43
+        ]
+    },
+    {
+        "id": 48,
+        "intersections": [
+            [
+                40,
+                45
+            ],
+            [
+                46
+            ]
+        ],
+        "type": "silhouette_line",
+        "previous_strokes": [
+            40,
+            45,
+            46
+        ],
+        "planes": [
+            -1
+        ],
+        "anchor_intersections": [
+            [
+                46
+            ],
+            [
+                40,
+                45
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 3,
+        "occlusions": [
+            7,
+            20,
+            22,
+            25,
+            29,
+            37,
+            41
+        ]
+    },
+    {
+        "id": 49,
+        "intersections": [
+            [
+                1
+            ],
+            [
+                3
+            ],
+            [
+                12
+            ],
+            [
+                13
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            1,
+            3,
+            12,
+            13
+        ],
+        "planes": [
+            10,
+            1
+        ],
+        "anchor_intersections": [
+            [
+                1
+            ],
+            [
+                3
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 4,
+        "occlusions": [
+            5,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 50,
+        "intersections": [
+            [
+                1
+            ],
+            [
+                3
+            ],
+            [
+                12
+            ],
+            [
+                13
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            1,
+            3,
+            12,
+            13
+        ],
+        "planes": [
+            11,
+            1
+        ],
+        "anchor_intersections": [
+            [
+                1
+            ],
+            [
+                3
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 4,
+        "occlusions": [
+            5,
+            17,
+            34,
+            47
+        ]
+    },
+    {
+        "id": 51,
+        "intersections": [
+            [
+                0
+            ],
+            [
+                2
+            ],
+            [
+                49
+            ],
+            [
+                50
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            0,
+            2,
+            49,
+            50
+        ],
+        "planes": [
+            12,
+            1
+        ],
+        "anchor_intersections": [
+            [
+                0
+            ],
+            [
+                2
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 4,
+        "occlusions": [
+            23,
+            25
+        ]
+    },
+    {
+        "id": 52,
+        "intersections": [
+            [
+                8
+            ],
+            [
+                11
+            ],
+            [
+                14
+            ],
+            [
+                15
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            8,
+            11,
+            14,
+            15
+        ],
+        "planes": [
+            10,
+            5
+        ],
+        "anchor_intersections": [
+            [
+                11
+            ],
+            [
+                8
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 4,
+        "occlusions": [
+            7,
+            20
+        ]
+    },
+    {
+        "id": 53,
+        "intersections": [
+            [
+                8
+            ],
+            [
+                11
+            ],
+            [
+                14
+            ],
+            [
+                15
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            8,
+            11,
+            14,
+            15
+        ],
+        "planes": [
+            11,
+            5
+        ],
+        "anchor_intersections": [
+            [
+                11
+            ],
+            [
+                8
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 4,
+        "occlusions": [
+            7,
+            20,
+            21
+        ]
+    },
+    {
+        "id": 54,
+        "intersections": [
+            [
+                6
+            ],
+            [
+                10
+            ],
+            [
+                52
+            ],
+            [
+                53
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            6,
+            10,
+            52,
+            53
+        ],
+        "planes": [
+            12,
+            5
+        ],
+        "anchor_intersections": [
+            [
+                6
+            ],
+            [
+                10
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 4,
+        "occlusions": [
+            7,
+            20
+        ]
+    },
+    {
+        "id": 55,
+        "intersections": [
+            [
+                3,
+                49
+            ],
+            [
+                11,
+                52
+            ],
+            [
+                16
+            ],
+            [
+                17
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            3,
+            11,
+            16,
+            17,
+            49,
+            52
+        ],
+        "planes": [
+            4,
+            10
+        ],
+        "anchor_intersections": [
+            [
+                11,
+                52
+            ],
+            [
+                3,
+                49
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 4,
+        "occlusions": [
+            2,
+            13,
+            18,
+            19,
+            30,
+            34,
+            36,
+            39,
+            47,
+            50
+        ]
+    },
+    {
+        "id": 56,
+        "intersections": [
+            [
+                3,
+                50
+            ],
+            [
+                11,
+                53
+            ],
+            [
+                16
+            ],
+            [
+                17
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            3,
+            11,
+            16,
+            17,
+            50,
+            53
+        ],
+        "planes": [
+            4,
+            11
+        ],
+        "anchor_intersections": [
+            [
+                11,
+                53
+            ],
+            [
+                3,
+                50
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 4,
+        "occlusions": [
+            2,
+            18,
+            19
+        ]
+    },
+    {
+        "id": 57,
+        "intersections": [
+            [
+                2,
+                51
+            ],
+            [
+                10,
+                54
+            ],
+            [
+                18,
+                36,
+                40
+            ],
+            [
+                19,
+                39,
+                45
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            2,
+            10,
+            18,
+            19,
+            36,
+            39,
+            40,
+            45,
+            51,
+            54
+        ],
+        "planes": [
+            12,
+            3
+        ],
+        "anchor_intersections": [
+            [
+                10,
+                54
+            ],
+            [
+                2,
+                51
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 4,
+        "occlusions": [
+            6,
+            15,
+            22,
+            30,
+            34,
+            47,
+            52,
+            53
+        ]
+    },
+    {
+        "id": 58,
+        "intersections": [
+            [
+                0,
+                51
+            ],
+            [
+                54,
+                6
+            ],
+            [
+                22,
+                41
+            ],
+            [
+                23,
+                44,
+                46
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            0,
+            6,
+            22,
+            23,
+            41,
+            44,
+            46,
+            51,
+            54
+        ],
+        "planes": [
+            12,
+            0
+        ],
+        "anchor_intersections": [
+            [
+                6,
+                54
+            ],
+            [
+                0,
+                51
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 4,
+        "occlusions": [
+            1,
+            12,
+            26,
+            27,
+            28,
+            32,
+            48,
+            49
+        ]
+    },
+    {
+        "id": 59,
+        "intersections": [
+            [
+                1,
+                49
+            ],
+            [
+                8,
+                52
+            ],
+            [
+                26
+            ],
+            [
+                27
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            1,
+            8,
+            26,
+            27,
+            49,
+            52
+        ],
+        "planes": [
+            2,
+            10
+        ],
+        "anchor_intersections": [
+            [
+                8,
+                52
+            ],
+            [
+                1,
+                49
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 4,
+        "occlusions": [
+            6,
+            22,
+            23
+        ]
+    },
+    {
+        "id": 60,
+        "intersections": [
+            [
+                1,
+                50
+            ],
+            [
+                8,
+                53
+            ],
+            [
+                26
+            ],
+            [
+                27
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            1,
+            8,
+            26,
+            27,
+            50,
+            53
+        ],
+        "planes": [
+            2,
+            11
+        ],
+        "anchor_intersections": [
+            [
+                8,
+                53
+            ],
+            [
+                1,
+                50
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 4,
+        "occlusions": [
+            6,
+            14,
+            22,
+            28,
+            32,
+            41,
+            46,
+            48,
+            52,
+            54
+        ]
+    },
+    {
+        "id": 61,
+        "intersections": [
+            [
+                6,
+                54
+            ],
+            [
+                22,
+                41,
+                46
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            6,
+            22,
+            41,
+            46,
+            54,
+            58
+        ],
+        "planes": [
+            12,
+            0
+        ],
+        "anchor_intersections": [
+            [
+                6,
+                54
+            ],
+            [
+                22,
+                41,
+                46
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            58
+        ],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 4,
+        "occlusions": [
+            26,
+            27,
+            28,
+            48
+        ]
+    },
+    {
+        "id": 62,
+        "intersections": [
+            [
+                0,
+                51
+            ],
+            [
+                23,
+                44,
+                46
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            0,
+            23,
+            44,
+            46,
+            51,
+            58
+        ],
+        "planes": [
+            12,
+            0
+        ],
+        "anchor_intersections": [
+            [
+                23,
+                44,
+                46
+            ],
+            [
+                0,
+                51
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            58
+        ],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 4,
+        "occlusions": [
+            12,
+            49
+        ]
+    },
+    {
+        "id": 63,
+        "intersections": [
+            [
+                2,
+                51
+            ],
+            [
+                19,
+                39,
+                40,
+                45
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            2,
+            19,
+            39,
+            40,
+            45,
+            51,
+            57
+        ],
+        "planes": [
+            12,
+            3
+        ],
+        "anchor_intersections": [
+            [
+                19,
+                39,
+                40,
+                45
+            ],
+            [
+                2,
+                51
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            57
+        ],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 4,
+        "occlusions": [
+            22,
+            34,
+            47
+        ]
+    },
+    {
+        "id": 64,
+        "intersections": [
+            [
+                10,
+                54
+            ],
+            [
+                18,
+                36,
+                40,
+                45
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            10,
+            18,
+            36,
+            40,
+            45,
+            54,
+            57
+        ],
+        "planes": [
+            12,
+            3
+        ],
+        "anchor_intersections": [
+            [
+                10,
+                54
+            ],
+            [
+                18,
+                36,
+                40,
+                45
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            57
+        ],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 4,
+        "occlusions": [
+            15,
+            52,
+            53
+        ]
+    },
+    {
+        "id": 65,
+        "intersections": [
+            [
+                50,
+                51
+            ],
+            [
+                53,
+                54
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            50,
+            51,
+            53,
+            54
+        ],
+        "planes": [
+            12,
+            11
+        ],
+        "anchor_intersections": [
+            [
+                50,
+                51
+            ],
+            [
+                53,
+                54
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 4,
+        "occlusions": [
+            2,
+            6,
+            15,
+            18,
+            19,
+            22,
+            30,
+            34,
+            36,
+            39,
+            47,
+            52
+        ]
+    },
+    {
+        "id": 66,
+        "intersections": [
+            [
+                49,
+                51
+            ],
+            [
+                52,
+                54
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            49,
+            51,
+            52,
+            54
+        ],
+        "planes": [
+            12,
+            10
+        ],
+        "anchor_intersections": [
+            [
+                52,
+                54
+            ],
+            [
+                49,
+                51
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 4,
+        "occlusions": [
+            2,
+            6,
+            12,
+            18,
+            19,
+            22,
+            23,
+            28,
+            32,
+            41,
+            44,
+            48,
+            50
+        ]
+    },
+    {
+        "id": 67,
+        "intersections": [
+            [
+                8,
+                59
+            ],
+            [
+                14
+            ],
+            [
+                54,
+                66
+            ]
+        ],
+        "type": "feature_line",
+        "previous_strokes": [
+            8,
+            14,
+            52,
+            54,
+            59,
+            66
+        ],
+        "planes": [
+            10,
+            5
+        ],
+        "anchor_intersections": [
+            [
+                8,
+                59
+            ],
+            [
+                54,
+                66
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            52
+        ],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 4,
+        "occlusions": [
+            7,
+            60
+        ]
+    },
+    {
+        "id": 68,
+        "intersections": [
+            [
+                53,
+                60
+            ],
+            [
+                52,
+                59,
+                67
+            ]
+        ],
+        "type": "feature_line",
+        "previous_strokes": [
+            8,
+            52,
+            53,
+            59,
+            60,
+            67
+        ],
+        "planes": [
+            2,
+            5
+        ],
+        "anchor_intersections": [
+            [
+                52,
+                59,
+                67
+            ],
+            [
+                53,
+                60
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            8
+        ],
+        "projection_constraint_ids": [],
+        "original_feature_line": false,
+        "feature_id": 4,
+        "occlusions": []
+    },
+    {
+        "id": 69,
+        "intersections": [
+            [
+                8,
+                60,
+                68
+            ],
+            [
+                14
+            ],
+            [
+                54,
+                65
+            ]
+        ],
+        "type": "feature_line",
+        "previous_strokes": [
+            8,
+            14,
+            53,
+            54,
+            60,
+            65,
+            68
+        ],
+        "planes": [
+            11,
+            5
+        ],
+        "anchor_intersections": [
+            [
+                8,
+                60,
+                68
+            ],
+            [
+                54,
+                65
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            53
+        ],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 4,
+        "occlusions": [
+            7,
+            20
+        ]
+    },
+    {
+        "id": 70,
+        "intersections": [
+            [
+                52,
+                66,
+                67
+            ],
+            [
+                53,
+                65,
+                69
+            ]
+        ],
+        "type": "feature_line",
+        "previous_strokes": [
+            52,
+            53,
+            54,
+            65,
+            66,
+            67,
+            69
+        ],
+        "planes": [
+            12,
+            5
+        ],
+        "anchor_intersections": [
+            [
+                52,
+                66,
+                67
+            ],
+            [
+                53,
+                65,
+                69
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            54
+        ],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 4,
+        "occlusions": [
+            20,
+            54
+        ]
+    },
+    {
+        "id": 71,
+        "intersections": [
+            [
+                8,
+                52,
+                59,
+                67,
+                68
+            ]
+        ],
+        "type": "extrude_line",
+        "previous_strokes": [
+            8,
+            52,
+            59,
+            67,
+            68
+        ],
+        "planes": [
+            2,
+            10
+        ],
+        "anchor_intersections": [
+            [
+                8,
+                52,
+                59,
+                67,
+                68
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 5,
+        "occlusions": []
+    },
+    {
+        "id": 72,
+        "intersections": [
+            [
+                52,
+                54,
+                67,
+                70
+            ],
+            [
+                66
+            ]
+        ],
+        "type": "extrude_line",
+        "previous_strokes": [
+            52,
+            54,
+            66,
+            67,
+            70
+        ],
+        "planes": [
+            12,
+            10
+        ],
+        "anchor_intersections": [
+            [
+                52,
+                54,
+                67,
+                70
+            ],
+            [
+                66
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 5,
+        "occlusions": [
+            14,
+            53,
+            69
+        ]
+    },
+    {
+        "id": 73,
+        "intersections": [
+            [
+                71
+            ],
+            [
+                72
+            ]
+        ],
+        "type": "feature_line",
+        "previous_strokes": [
+            71,
+            72
+        ],
+        "planes": [
+            10,
+            13
+        ],
+        "anchor_intersections": [
+            [
+                71
+            ],
+            [
+                72
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 5,
+        "occlusions": []
+    },
+    {
+        "id": 74,
+        "intersections": [
+            [
+                8,
+                53,
+                60,
+                68,
+                69
+            ]
+        ],
+        "type": "extrude_line",
+        "previous_strokes": [
+            8,
+            53,
+            60,
+            68,
+            69
+        ],
+        "planes": [
+            2,
+            11
+        ],
+        "anchor_intersections": [
+            [
+                8,
+                53,
+                60,
+                68,
+                69
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 5,
+        "occlusions": [
+            73
+        ]
+    },
+    {
+        "id": 75,
+        "intersections": [
+            [
+                71,
+                73
+            ],
+            [
+                74
+            ]
+        ],
+        "type": "feature_line",
+        "previous_strokes": [
+            71,
+            73,
+            74
+        ],
+        "planes": [
+            2,
+            13
+        ],
+        "anchor_intersections": [
+            [
+                71,
+                73
+            ],
+            [
+                74
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 5,
+        "occlusions": []
+    },
+    {
+        "id": 76,
+        "intersections": [
+            [
+                53,
+                54,
+                69,
+                70
+            ],
+            [
+                65
+            ]
+        ],
+        "type": "extrude_line",
+        "previous_strokes": [
+            53,
+            54,
+            65,
+            69,
+            70
+        ],
+        "planes": [
+            12,
+            11
+        ],
+        "anchor_intersections": [
+            [
+                65
+            ],
+            [
+                53,
+                54,
+                69,
+                70
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 5,
+        "occlusions": [
+            10
+        ]
+    },
+    {
+        "id": 77,
+        "intersections": [
+            [
+                74,
+                75
+            ],
+            [
+                76
+            ]
+        ],
+        "type": "feature_line",
+        "previous_strokes": [
+            74,
+            75,
+            76
+        ],
+        "planes": [
+            11,
+            13
+        ],
+        "anchor_intersections": [
+            [
+                74,
+                75
+            ],
+            [
+                76
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 5,
+        "occlusions": []
+    },
+    {
+        "id": 78,
+        "intersections": [
+            [
+                72,
+                73
+            ],
+            [
+                76,
+                77
+            ]
+        ],
+        "type": "feature_line",
+        "previous_strokes": [
+            72,
+            73,
+            76,
+            77
+        ],
+        "planes": [
+            12,
+            13
+        ],
+        "anchor_intersections": [
+            [
+                72,
+                73
+            ],
+            [
+                76,
+                77
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 5,
+        "occlusions": []
+    },
+    {
+        "id": 79,
+        "intersections": [
+            [
+                4,
+                6,
+                68
+            ],
+            [
+                71,
+                52,
+                59,
+                67
+            ]
+        ],
+        "type": "feature_line",
+        "previous_strokes": [
+            4,
+            6,
+            8,
+            52,
+            59,
+            67,
+            68,
+            71
+        ],
+        "planes": [
+            2,
+            5
+        ],
+        "anchor_intersections": [
+            [
+                4,
+                6,
+                68
+            ],
+            [
+                52,
+                59,
+                67,
+                71
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            8
+        ],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 5,
+        "occlusions": []
+    },
+    {
+        "id": 80,
+        "intersections": [
+            [
+                7,
+                10
+            ],
+            [
+                53,
+                60,
+                68,
+                69,
+                74
+            ]
+        ],
+        "type": "feature_line",
+        "previous_strokes": [
+            7,
+            8,
+            10,
+            53,
+            60,
+            68,
+            69,
+            74
+        ],
+        "planes": [
+            2,
+            5
+        ],
+        "anchor_intersections": [
+            [
+                7,
+                10
+            ],
+            [
+                53,
+                60,
+                68,
+                69,
+                74
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            8
+        ],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 5,
+        "occlusions": []
+    },
+    {
+        "id": 81,
+        "intersections": [
+            [
+                0,
+                1
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            0,
+            1,
+            4
+        ],
+        "planes": [
+            2,
+            0
+        ],
+        "anchor_intersections": [
+            [
+                0,
+                1
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            4
+        ],
+        "projection_constraint_ids": [
+            0
+        ],
+        "original_feature_line": false,
+        "feature_id": 6,
+        "occlusions": []
+    },
+    {
+        "id": 82,
+        "intersections": [
+            [
+                1,
+                4,
+                81
+            ],
+            [
+                12,
+                24
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            0,
+            1,
+            4,
+            12,
+            24,
+            81
+        ],
+        "planes": [
+            0,
+            1
+        ],
+        "anchor_intersections": [
+            [
+                12,
+                24
+            ],
+            [
+                1,
+                4,
+                81
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            0
+        ],
+        "projection_constraint_ids": [
+            1
+        ],
+        "original_feature_line": false,
+        "feature_id": 6,
+        "occlusions": []
+    },
+    {
+        "id": 83,
+        "intersections": [
+            [
+                0,
+                82
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            0,
+            82
+        ],
+        "planes": [
+            14,
+            0
+        ],
+        "anchor_intersections": [
+            [
+                0,
+                82
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [
+            2
+        ],
+        "original_feature_line": false,
+        "feature_id": 6,
+        "occlusions": [
+            12,
+            49
+        ]
+    },
+    {
+        "id": 84,
+        "intersections": [
+            [
+                4,
+                81
+            ],
+            [
+                24
+            ],
+            [
+                83
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            4,
+            24,
+            81,
+            83
+        ],
+        "planes": [
+            0,
+            15
+        ],
+        "anchor_intersections": [
+            [
+                83
+            ],
+            [
+                4,
+                81
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [
+            3
+        ],
+        "original_feature_line": false,
+        "feature_id": 6,
+        "occlusions": [
+            59
+        ]
+    },
+    {
+        "id": 85,
+        "intersections": [
+            [
+                1,
+                2
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            1,
+            2,
+            7
+        ],
+        "planes": [
+            2,
+            3
+        ],
+        "anchor_intersections": [
+            [
+                1,
+                2
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            7
+        ],
+        "projection_constraint_ids": [
+            4
+        ],
+        "original_feature_line": false,
+        "feature_id": 6,
+        "occlusions": [
+            22,
+            32,
+            41,
+            46
+        ]
+    },
+    {
+        "id": 86,
+        "intersections": [
+            [
+                1,
+                7,
+                85
+            ],
+            [
+                12,
+                20,
+                29,
+                33
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            1,
+            2,
+            7,
+            12,
+            20,
+            29,
+            33,
+            85
+        ],
+        "planes": [
+            3,
+            1
+        ],
+        "anchor_intersections": [
+            [
+                12,
+                20,
+                29,
+                33
+            ],
+            [
+                1,
+                7,
+                85
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            2
+        ],
+        "projection_constraint_ids": [
+            5
+        ],
+        "original_feature_line": false,
+        "feature_id": 6,
+        "occlusions": [
+            25,
+            43,
+            46,
+            66
+        ]
+    },
+    {
+        "id": 87,
+        "intersections": [
+            [
+                2,
+                86
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            2,
+            86
+        ],
+        "planes": [
+            14,
+            3
+        ],
+        "anchor_intersections": [
+            [
+                2,
+                86
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [
+            6
+        ],
+        "original_feature_line": false,
+        "feature_id": 6,
+        "occlusions": [
+            22
+        ]
+    },
+    {
+        "id": 88,
+        "intersections": [
+            [
+                7,
+                85
+            ],
+            [
+                20,
+                29,
+                33
+            ],
+            [
+                87
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            7,
+            20,
+            29,
+            33,
+            85,
+            87
+        ],
+        "planes": [
+            3,
+            15
+        ],
+        "anchor_intersections": [
+            [
+                7,
+                85
+            ],
+            [
+                87
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [
+            7
+        ],
+        "original_feature_line": false,
+        "feature_id": 6,
+        "occlusions": [
+            25,
+            30,
+            32,
+            66
+        ]
+    },
+    {
+        "id": 89,
+        "intersections": [
+            [
+                9,
+                11
+            ],
+            [
+                15,
+                21
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            9,
+            10,
+            11,
+            15,
+            21
+        ],
+        "planes": [
+            3,
+            5
+        ],
+        "anchor_intersections": [
+            [
+                15,
+                21
+            ],
+            [
+                9,
+                11
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            10
+        ],
+        "projection_constraint_ids": [
+            8
+        ],
+        "original_feature_line": false,
+        "feature_id": 6,
+        "occlusions": []
+    },
+    {
+        "id": 90,
+        "intersections": [
+            [
+                10,
+                11,
+                89
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            9,
+            10,
+            11,
+            89
+        ],
+        "planes": [
+            4,
+            3
+        ],
+        "anchor_intersections": [
+            [
+                10,
+                11,
+                89
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            9
+        ],
+        "projection_constraint_ids": [
+            9
+        ],
+        "original_feature_line": false,
+        "feature_id": 6,
+        "occlusions": []
+    },
+    {
+        "id": 91,
+        "intersections": [
+            [
+                9,
+                90
+            ],
+            [
+                21
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            9,
+            21,
+            90
+        ],
+        "planes": [
+            3,
+            16
+        ],
+        "anchor_intersections": [
+            [
+                9,
+                90
+            ],
+            [
+                21
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [
+            10
+        ],
+        "original_feature_line": false,
+        "feature_id": 6,
+        "occlusions": [
+            11,
+            56
+        ]
+    },
+    {
+        "id": 92,
+        "intersections": [
+            [
+                10,
+                89
+            ],
+            [
+                91
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            10,
+            89,
+            91
+        ],
+        "planes": [
+            17,
+            3
+        ],
+        "anchor_intersections": [
+            [
+                91
+            ],
+            [
+                10,
+                89
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [
+            11
+        ],
+        "original_feature_line": false,
+        "feature_id": 6,
+        "occlusions": [
+            15,
+            53
+        ]
+    },
+    {
+        "id": 93,
+        "intersections": [
+            [
+                5,
+                11
+            ],
+            [
+                15,
+                25
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            5,
+            6,
+            11,
+            15,
+            25
+        ],
+        "planes": [
+            0,
+            5
+        ],
+        "anchor_intersections": [
+            [
+                5,
+                11
+            ],
+            [
+                15,
+                25
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            6
+        ],
+        "projection_constraint_ids": [
+            12
+        ],
+        "original_feature_line": false,
+        "feature_id": 6,
+        "occlusions": [
+            20,
+            28,
+            29,
+            37,
+            40,
+            45,
+            57,
+            65
+        ]
+    },
+    {
+        "id": 94,
+        "intersections": [
+            [
+                6,
+                11,
+                93
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            5,
+            6,
+            11,
+            93
+        ],
+        "planes": [
+            4,
+            0
+        ],
+        "anchor_intersections": [
+            [
+                6,
+                11,
+                93
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            5
+        ],
+        "projection_constraint_ids": [
+            13
+        ],
+        "original_feature_line": false,
+        "feature_id": 6,
+        "occlusions": [
+            30
+        ]
+    },
+    {
+        "id": 95,
+        "intersections": [
+            [
+                5,
+                94
+            ],
+            [
+                25
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            5,
+            25,
+            94
+        ],
+        "planes": [
+            0,
+            16
+        ],
+        "anchor_intersections": [
+            [
+                5,
+                94
+            ],
+            [
+                25
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [
+            14
+        ],
+        "original_feature_line": false,
+        "feature_id": 6,
+        "occlusions": [
+            20,
+            29,
+            30,
+            37,
+            40,
+            45,
+            57,
+            65
+        ]
+    },
+    {
+        "id": 96,
+        "intersections": [
+            [
+                6,
+                93
+            ],
+            [
+                95
+            ]
+        ],
+        "type": "grid_lines",
+        "previous_strokes": [
+            6,
+            93,
+            95
+        ],
+        "planes": [
+            17,
+            0
+        ],
+        "anchor_intersections": [
+            [
+                6,
+                93
+            ],
+            [
+                95
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [
+            15
+        ],
+        "original_feature_line": false,
+        "feature_id": 6,
+        "occlusions": [
+            28,
+            48
+        ]
+    },
+    {
+        "id": 97,
+        "intersections": [
+            [
+                0,
+                82,
+                83
+            ],
+            [
+                4,
+                81,
+                84
+            ],
+            [
+                12,
+                24
+            ]
+        ],
+        "type": "fillet_line",
+        "previous_strokes": [
+            0,
+            4,
+            12,
+            24,
+            81,
+            82,
+            83,
+            84
+        ],
+        "planes": [
+            -1
+        ],
+        "anchor_intersections": [
+            [
+                0,
+                82,
+                83
+            ],
+            [
+                4,
+                81,
+                84
+            ]
+        ],
+        "tangent_intersections": [
+            [
+                0,
+                82
+            ],
+            [
+                4,
+                81
+            ]
+        ],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 6,
+        "occlusions": [
+            1
+        ]
+    },
+    {
+        "id": 98,
+        "intersections": [
+            [
+                2,
+                87,
+                86
+            ],
+            [
+                7,
+                85,
+                88
+            ],
+            [
+                12,
+                20,
+                29,
+                33
+            ]
+        ],
+        "type": "fillet_line",
+        "previous_strokes": [
+            2,
+            7,
+            12,
+            20,
+            29,
+            33,
+            85,
+            86,
+            87,
+            88
+        ],
+        "planes": [
+            -1
+        ],
+        "anchor_intersections": [
+            [
+                7,
+                85,
+                88
+            ],
+            [
+                2,
+                86,
+                87
+            ]
+        ],
+        "tangent_intersections": [
+            [
+                2,
+                86
+            ],
+            [
+                7,
+                85
+            ]
+        ],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 6,
+        "occlusions": [
+            22,
+            25,
+            32,
+            41,
+            43,
+            66
+        ]
+    },
+    {
+        "id": 99,
+        "intersections": [
+            [
+                9,
+                90,
+                91
+            ],
+            [
+                10,
+                89,
+                92
+            ],
+            [
+                15,
+                21
+            ]
+        ],
+        "type": "fillet_line",
+        "previous_strokes": [
+            9,
+            10,
+            15,
+            21,
+            89,
+            90,
+            91,
+            92
+        ],
+        "planes": [
+            -1
+        ],
+        "anchor_intersections": [
+            [
+                9,
+                90,
+                91
+            ],
+            [
+                10,
+                89,
+                92
+            ]
+        ],
+        "tangent_intersections": [
+            [
+                9,
+                90
+            ],
+            [
+                10,
+                89
+            ]
+        ],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 6,
+        "occlusions": []
+    },
+    {
+        "id": 100,
+        "intersections": [
+            [
+                5,
+                94,
+                95
+            ],
+            [
+                6,
+                93,
+                96
+            ],
+            [
+                15,
+                25
+            ]
+        ],
+        "type": "fillet_line",
+        "previous_strokes": [
+            5,
+            6,
+            15,
+            25,
+            93,
+            94,
+            95,
+            96
+        ],
+        "planes": [
+            -1
+        ],
+        "anchor_intersections": [
+            [
+                5,
+                94,
+                95
+            ],
+            [
+                6,
+                93,
+                96
+            ]
+        ],
+        "tangent_intersections": [
+            [
+                5,
+                94
+            ],
+            [
+                6,
+                93
+            ]
+        ],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 6,
+        "occlusions": [
+            20,
+            28,
+            29,
+            30,
+            37,
+            40,
+            45,
+            48,
+            57,
+            65
+        ]
+    },
+    {
+        "id": 101,
+        "intersections": [
+            [
+                0,
+                97,
+                82,
+                83
+            ],
+            [
+                2,
+                87,
+                98,
+                86
+            ],
+            [
+                49
+            ],
+            [
+                50
+            ]
+        ],
+        "type": "feature_line",
+        "previous_strokes": [
+            0,
+            2,
+            49,
+            50,
+            82,
+            83,
+            86,
+            87,
+            97,
+            98
+        ],
+        "planes": [
+            14,
+            1
+        ],
+        "anchor_intersections": [
+            [
+                0,
+                82,
+                83,
+                97
+            ],
+            [
+                2,
+                86,
+                87,
+                98
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 6,
+        "occlusions": [
+            23,
+            44,
+            58,
+            62,
+            66
+        ]
+    },
+    {
+        "id": 102,
+        "intersections": [
+            [
+                4,
+                97,
+                81,
+                84
+            ],
+            [
+                7,
+                88,
+                98,
+                85
+            ],
+            [
+                59
+            ],
+            [
+                60
+            ]
+        ],
+        "type": "feature_line",
+        "previous_strokes": [
+            4,
+            7,
+            59,
+            60,
+            81,
+            84,
+            85,
+            88,
+            97,
+            98
+        ],
+        "planes": [
+            2,
+            15
+        ],
+        "anchor_intersections": [
+            [
+                4,
+                81,
+                84,
+                97
+            ],
+            [
+                7,
+                85,
+                88,
+                98
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 6,
+        "occlusions": [
+            22,
+            23,
+            24,
+            41,
+            42,
+            58
+        ]
+    },
+    {
+        "id": 103,
+        "intersections": [
+            [
+                5,
+                100,
+                94,
+                95
+            ],
+            [
+                99,
+                9,
+                90,
+                91
+            ],
+            [
+                55
+            ],
+            [
+                56
+            ]
+        ],
+        "type": "feature_line",
+        "previous_strokes": [
+            5,
+            9,
+            55,
+            56,
+            90,
+            91,
+            94,
+            95,
+            99,
+            100
+        ],
+        "planes": [
+            4,
+            16
+        ],
+        "anchor_intersections": [
+            [
+                9,
+                90,
+                91,
+                99
+            ],
+            [
+                5,
+                94,
+                95,
+                100
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 6,
+        "occlusions": [
+            18,
+            21,
+            31,
+            38,
+            40,
+            45
+        ]
+    },
+    {
+        "id": 104,
+        "intersections": [
+            [
+                6,
+                100,
+                93,
+                96
+            ],
+            [
+                99,
+                10,
+                89,
+                92
+            ],
+            [
+                52
+            ],
+            [
+                53
+            ]
+        ],
+        "type": "feature_line",
+        "previous_strokes": [
+            6,
+            10,
+            52,
+            53,
+            89,
+            92,
+            93,
+            96,
+            99,
+            100
+        ],
+        "planes": [
+            17,
+            5
+        ],
+        "anchor_intersections": [
+            [
+                6,
+                93,
+                96,
+                100
+            ],
+            [
+                10,
+                89,
+                92,
+                99
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 6,
+        "occlusions": [
+            18,
+            20,
+            57,
+            64,
+            65
+        ]
+    },
+    {
+        "id": 105,
+        "intersections": [
+            [
+                6,
+                8,
+                79
+            ],
+            [
+                22,
+                26
+            ],
+            [
+                23,
+                27
+            ],
+            [
+                81,
+                84,
+                97,
+                102
+            ]
+        ],
+        "type": "feature_line",
+        "previous_strokes": [
+            4,
+            6,
+            8,
+            22,
+            23,
+            26,
+            27,
+            79,
+            81,
+            84,
+            97,
+            102
+        ],
+        "planes": [
+            2,
+            0
+        ],
+        "anchor_intersections": [
+            [
+                81,
+                84,
+                97,
+                102
+            ],
+            [
+                6,
+                8,
+                79
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            4
+        ],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 6,
+        "occlusions": []
+    },
+    {
+        "id": 106,
+        "intersections": [
+            [
+                8,
+                10,
+                80
+            ],
+            [
+                18,
+                26
+            ],
+            [
+                19,
+                27
+            ],
+            [
+                85,
+                88,
+                98,
+                102
+            ]
+        ],
+        "type": "feature_line",
+        "previous_strokes": [
+            7,
+            8,
+            10,
+            18,
+            19,
+            26,
+            27,
+            80,
+            85,
+            88,
+            98,
+            102
+        ],
+        "planes": [
+            2,
+            3
+        ],
+        "anchor_intersections": [
+            [
+                85,
+                88,
+                98,
+                102
+            ],
+            [
+                8,
+                10,
+                80
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            7
+        ],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 6,
+        "occlusions": [
+            6,
+            14,
+            28,
+            48,
+            52,
+            53,
+            54,
+            67,
+            69
+        ]
+    },
+    {
+        "id": 107,
+        "intersections": [
+            [
+                2,
+                3
+            ],
+            [
+                90,
+                91,
+                99,
+                103
+            ],
+            [
+                16,
+                18
+            ],
+            [
+                17,
+                19
+            ]
+        ],
+        "type": "feature_line",
+        "previous_strokes": [
+            2,
+            3,
+            9,
+            16,
+            17,
+            18,
+            19,
+            90,
+            91,
+            99,
+            103
+        ],
+        "planes": [
+            4,
+            3
+        ],
+        "anchor_intersections": [
+            [
+                2,
+                3
+            ],
+            [
+                90,
+                91,
+                99,
+                103
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            9
+        ],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 6,
+        "occlusions": []
+    },
+    {
+        "id": 108,
+        "intersections": [
+            [
+                0,
+                3
+            ],
+            [
+                94,
+                95,
+                100,
+                103
+            ],
+            [
+                16,
+                22
+            ],
+            [
+                17,
+                23
+            ]
+        ],
+        "type": "feature_line",
+        "previous_strokes": [
+            0,
+            3,
+            5,
+            16,
+            17,
+            22,
+            23,
+            94,
+            95,
+            100,
+            103
+        ],
+        "planes": [
+            4,
+            0
+        ],
+        "anchor_intersections": [
+            [
+                0,
+                3
+            ],
+            [
+                94,
+                95,
+                100,
+                103
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            5
+        ],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 6,
+        "occlusions": [
+            2,
+            13,
+            34,
+            47,
+            49,
+            50
+        ]
+    },
+    {
+        "id": 109,
+        "intersections": [
+            [
+                7,
+                8,
+                80,
+                106
+            ],
+            [
+                89,
+                92,
+                99,
+                104
+            ],
+            [
+                14,
+                20
+            ],
+            [
+                64,
+                54,
+                57
+            ]
+        ],
+        "type": "feature_line",
+        "previous_strokes": [
+            7,
+            8,
+            10,
+            14,
+            20,
+            54,
+            57,
+            64,
+            80,
+            89,
+            92,
+            99,
+            104,
+            106
+        ],
+        "planes": [
+            3,
+            5
+        ],
+        "anchor_intersections": [
+            [
+                89,
+                92,
+                99,
+                104
+            ],
+            [
+                7,
+                8,
+                80,
+                106
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            10
+        ],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 6,
+        "occlusions": [
+            76
+        ]
+    },
+    {
+        "id": 110,
+        "intersections": [
+            [
+                4,
+                8,
+                79,
+                105
+            ],
+            [
+                14,
+                24
+            ],
+            [
+                61,
+                54,
+                58
+            ],
+            [
+                93,
+                96,
+                100,
+                104
+            ]
+        ],
+        "type": "feature_line",
+        "previous_strokes": [
+            4,
+            6,
+            8,
+            14,
+            24,
+            54,
+            58,
+            61,
+            79,
+            93,
+            96,
+            100,
+            104,
+            105
+        ],
+        "planes": [
+            0,
+            5
+        ],
+        "anchor_intersections": [
+            [
+                93,
+                96,
+                100,
+                104
+            ],
+            [
+                4,
+                8,
+                79,
+                105
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            6
+        ],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 6,
+        "occlusions": [
+            7,
+            26,
+            59,
+            60,
+            66,
+            106
+        ]
+    },
+    {
+        "id": 111,
+        "intersections": [
+            [
+                86,
+                87,
+                98,
+                101
+            ],
+            [
+                3,
+                9,
+                107
+            ],
+            [
+                13,
+                21,
+                31,
+                35
+            ],
+            [
+                51,
+                57,
+                63
+            ]
+        ],
+        "type": "feature_line",
+        "previous_strokes": [
+            2,
+            3,
+            9,
+            13,
+            21,
+            31,
+            35,
+            51,
+            57,
+            63,
+            86,
+            87,
+            98,
+            101,
+            107
+        ],
+        "planes": [
+            3,
+            1
+        ],
+        "anchor_intersections": [
+            [
+                3,
+                9,
+                107
+            ],
+            [
+                86,
+                87,
+                98,
+                101
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            2
+        ],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 6,
+        "occlusions": [
+            5,
+            17,
+            34,
+            47,
+            55,
+            56,
+            65,
+            108
+        ]
+    },
+    {
+        "id": 112,
+        "intersections": [
+            [
+                3,
+                5,
+                108
+            ],
+            [
+                13,
+                25
+            ],
+            [
+                62,
+                51,
+                58
+            ],
+            [
+                82,
+                83,
+                101
+            ]
+        ],
+        "type": "feature_line",
+        "previous_strokes": [
+            0,
+            3,
+            5,
+            13,
+            25,
+            51,
+            58,
+            62,
+            82,
+            83,
+            101,
+            108
+        ],
+        "planes": [
+            0,
+            1
+        ],
+        "anchor_intersections": [
+            [
+                3,
+                5,
+                108
+            ],
+            [
+                82,
+                83,
+                101
+            ]
+        ],
+        "tangent_intersections": [],
+        "overlapping_stroke_ids": [
+            0
+        ],
+        "projection_constraint_ids": [],
+        "original_feature_line": true,
+        "feature_id": 6,
+        "occlusions": []
+    }
+]

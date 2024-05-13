@@ -1,0 +1,2379 @@
+{
+    "bodies": [
+        {
+            "id": "JHD",
+            "type": "solid",
+            "faces": [
+                {
+                    "id": "JQW",
+                    "orientation": false,
+                    "area": 0.00012649953776407185,
+                    "loops": [
+                        {
+                            "type": "inner",
+                            "coedges": [
+                                {
+                                    "edgeId": "JLF",
+                                    "orientation": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "outer",
+                            "coedges": [
+                                {
+                                    "edgeId": "JQ9",
+                                    "orientation": false
+                                },
+                                {
+                                    "edgeId": "JQZ",
+                                    "orientation": true
+                                },
+                                {
+                                    "edgeId": "JQt",
+                                    "orientation": true
+                                },
+                                {
+                                    "edgeId": "JQ5",
+                                    "orientation": true
+                                },
+                                {
+                                    "edgeId": "JQJ",
+                                    "orientation": true
+                                },
+                                {
+                                    "edgeId": "JQh",
+                                    "orientation": false
+                                }
+                            ]
+                        }
+                    ],
+                    "box": {
+                        "minCorner": [
+                            -0.005,
+                            0.005,
+                            -8.673617379884035e-19
+                        ],
+                        "maxCorner": [
+                            0.005,
+                            0.005,
+                            0.015
+                        ]
+                    },
+                    "surface": {
+                        "type": "plane",
+                        "origin": [
+                            0.0,
+                            0.005,
+                            0.015
+                        ],
+                        "normal": [
+                            0.0,
+                            -1.0,
+                            0.0
+                        ]
+                    }
+                },
+                {
+                    "id": "JQa",
+                    "orientation": false,
+                    "area": 0.00013248961398618705,
+                    "loops": [
+                        {
+                            "type": "outer",
+                            "coedges": [
+                                {
+                                    "edgeId": "JQh",
+                                    "orientation": true
+                                },
+                                {
+                                    "edgeId": "JQN",
+                                    "orientation": true
+                                },
+                                {
+                                    "edgeId": "JQl",
+                                    "orientation": false
+                                },
+                                {
+                                    "edgeId": "JPR",
+                                    "orientation": false
+                                },
+                                {
+                                    "edgeId": "JOF",
+                                    "orientation": false
+                                },
+                                {
+                                    "edgeId": "JOV",
+                                    "orientation": false
+                                },
+                                {
+                                    "edgeId": "JOB",
+                                    "orientation": true
+                                },
+                                {
+                                    "edgeId": "JPN",
+                                    "orientation": false
+                                }
+                            ]
+                        }
+                    ],
+                    "box": {
+                        "minCorner": [
+                            -0.005,
+                            -0.005,
+                            0.0030010386013812965
+                        ],
+                        "maxCorner": [
+                            -0.005,
+                            0.005,
+                            0.017499999999999998
+                        ]
+                    },
+                    "surface": {
+                        "type": "plane",
+                        "origin": [
+                            -0.005,
+                            0.0,
+                            0.015
+                        ],
+                        "normal": [
+                            1.0,
+                            0.0,
+                            0.0
+                        ]
+                    }
+                },
+                {
+                    "id": "JQS",
+                    "orientation": false,
+                    "area": 0.00012649953776407182,
+                    "loops": [
+                        {
+                            "type": "inner",
+                            "coedges": [
+                                {
+                                    "edgeId": "JLB",
+                                    "orientation": false
+                                }
+                            ]
+                        },
+                        {
+                            "type": "outer",
+                            "coedges": [
+                                {
+                                    "edgeId": "JQp",
+                                    "orientation": false
+                                },
+                                {
+                                    "edgeId": "JQV",
+                                    "orientation": true
+                                },
+                                {
+                                    "edgeId": "JQ1",
+                                    "orientation": false
+                                },
+                                {
+                                    "edgeId": "JQl",
+                                    "orientation": true
+                                },
+                                {
+                                    "edgeId": "JQF",
+                                    "orientation": true
+                                },
+                                {
+                                    "edgeId": "JQx",
+                                    "orientation": true
+                                }
+                            ]
+                        }
+                    ],
+                    "box": {
+                        "minCorner": [
+                            -0.005,
+                            -0.005,
+                            -8.673617379884035e-19
+                        ],
+                        "maxCorner": [
+                            0.005,
+                            -0.005,
+                            0.015
+                        ]
+                    },
+                    "surface": {
+                        "type": "plane",
+                        "origin": [
+                            0.0,
+                            -0.005,
+                            0.015
+                        ],
+                        "normal": [
+                            0.0,
+                            1.0,
+                            0.0
+                        ]
+                    }
+                },
+                {
+                    "id": "JQO",
+                    "orientation": false,
+                    "area": 0.00011998961398618703,
+                    "loops": [
+                        {
+                            "type": "outer",
+                            "coedges": [
+                                {
+                                    "edgeId": "JQt",
+                                    "orientation": false
+                                },
+                                {
+                                    "edgeId": "JQR",
+                                    "orientation": true
+                                },
+                                {
+                                    "edgeId": "JQp",
+                                    "orientation": true
+                                },
+                                {
+                                    "edgeId": "JHh",
+                                    "orientation": true
+                                }
+                            ]
+                        }
+                    ],
+                    "box": {
+                        "minCorner": [
+                            0.005,
+                            -0.005,
+                            0.0
+                        ],
+                        "maxCorner": [
+                            0.005,
+                            0.005,
+                            0.011998961398618703
+                        ]
+                    },
+                    "surface": {
+                        "type": "plane",
+                        "origin": [
+                            0.005,
+                            0.0,
+                            0.015
+                        ],
+                        "normal": [
+                            -1.0,
+                            0.0,
+                            0.0
+                        ]
+                    }
+                },
+                {
+                    "id": "JQe",
+                    "orientation": true,
+                    "area": 4.498961398618703e-05,
+                    "loops": [
+                        {
+                            "type": "outer",
+                            "coedges": [
+                                {
+                                    "edgeId": "JQ1",
+                                    "orientation": true
+                                },
+                                {
+                                    "edgeId": "JQd",
+                                    "orientation": true
+                                },
+                                {
+                                    "edgeId": "JQ9",
+                                    "orientation": true
+                                },
+                                {
+                                    "edgeId": "JPN",
+                                    "orientation": true
+                                },
+                                {
+                                    "edgeId": "JPJ",
+                                    "orientation": false
+                                },
+                                {
+                                    "edgeId": "JPF",
+                                    "orientation": false
+                                },
+                                {
+                                    "edgeId": "JPB",
+                                    "orientation": false
+                                },
+                                {
+                                    "edgeId": "JPR",
+                                    "orientation": true
+                                }
+                            ]
+                        }
+                    ],
+                    "box": {
+                        "minCorner": [
+                            -0.005,
+                            -0.005,
+                            0.015
+                        ],
+                        "maxCorner": [
+                            0.0019989613986187028,
+                            0.005,
+                            0.015
+                        ]
+                    },
+                    "surface": {
+                        "type": "plane",
+                        "origin": [
+                            0.0,
+                            0.0,
+                            0.015
+                        ],
+                        "normal": [
+                            0.0,
+                            0.0,
+                            1.0
+                        ]
+                    }
+                },
+                {
+                    "id": "JQK",
+                    "orientation": false,
+                    "area": 6.998961398618703e-05,
+                    "loops": [
+                        {
+                            "type": "outer",
+                            "coedges": [
+                                {
+                                    "edgeId": "JQx",
+                                    "orientation": false
+                                },
+                                {
+                                    "edgeId": "JQB",
+                                    "orientation": true
+                                },
+                                {
+                                    "edgeId": "JQ5",
+                                    "orientation": false
+                                },
+                                {
+                                    "edgeId": "JHh",
+                                    "orientation": false
+                                }
+                            ]
+                        }
+                    ],
+                    "box": {
+                        "minCorner": [
+                            -0.0019989613986187028,
+                            -0.005,
+                            0.0
+                        ],
+                        "maxCorner": [
+                            0.005,
+                            0.005,
+                            0.0
+                        ]
+                    },
+                    "surface": {
+                        "type": "plane",
+                        "origin": [
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "normal": [
+                            0.0,
+                            0.0,
+                            1.0
+                        ]
+                    }
+                },
+                {
+                    "id": "JLC",
+                    "orientation": false,
+                    "area": 0.00015707963267948965,
+                    "loops": [
+                        {
+                            "type": "other",
+                            "coedges": [
+                                {
+                                    "edgeId": "JLF",
+                                    "orientation": true
+                                }
+                            ]
+                        },
+                        {
+                            "type": "other",
+                            "coedges": [
+                                {
+                                    "edgeId": "JLB",
+                                    "orientation": true
+                                }
+                            ]
+                        }
+                    ],
+                    "box": {
+                        "minCorner": [
+                            -0.0025,
+                            -0.005,
+                            0.004999999999999999
+                        ],
+                        "maxCorner": [
+                            0.0025,
+                            0.005,
+                            0.01
+                        ]
+                    },
+                    "surface": {
+                        "type": "cylinder",
+                        "origin": [
+                            0.0,
+                            0.005002,
+                            0.0075
+                        ],
+                        "axis": [
+                            0.0,
+                            -1.0,
+                            0.0
+                        ],
+                        "radius": 0.0025
+                    }
+                },
+                {
+                    "id": "JOO",
+                    "orientation": false,
+                    "area": 1.2499999999999994e-05,
+                    "loops": [
+                        {
+                            "type": "outer",
+                            "coedges": [
+                                {
+                                    "edgeId": "JPB",
+                                    "orientation": true
+                                },
+                                {
+                                    "edgeId": "JOJ",
+                                    "orientation": false
+                                },
+                                {
+                                    "edgeId": "JOd",
+                                    "orientation": false
+                                },
+                                {
+                                    "edgeId": "JOF",
+                                    "orientation": true
+                                }
+                            ]
+                        }
+                    ],
+                    "box": {
+                        "minCorner": [
+                            -0.005,
+                            -0.0025,
+                            0.015
+                        ],
+                        "maxCorner": [
+                            0.0,
+                            -0.0025,
+                            0.017499999999999998
+                        ]
+                    },
+                    "surface": {
+                        "type": "plane",
+                        "origin": [
+                            -0.0025,
+                            -0.0025,
+                            0.017499999999999998
+                        ],
+                        "normal": [
+                            0.0,
+                            1.0,
+                            0.0
+                        ]
+                    }
+                },
+                {
+                    "id": "JOS",
+                    "orientation": false,
+                    "area": 1.2499999999999994e-05,
+                    "loops": [
+                        {
+                            "type": "outer",
+                            "coedges": [
+                                {
+                                    "edgeId": "JPF",
+                                    "orientation": true
+                                },
+                                {
+                                    "edgeId": "JON",
+                                    "orientation": false
+                                },
+                                {
+                                    "edgeId": "JOl",
+                                    "orientation": false
+                                },
+                                {
+                                    "edgeId": "JOJ",
+                                    "orientation": true
+                                }
+                            ]
+                        }
+                    ],
+                    "box": {
+                        "minCorner": [
+                            0.0,
+                            -0.0025,
+                            0.015
+                        ],
+                        "maxCorner": [
+                            0.0,
+                            0.0025,
+                            0.017499999999999998
+                        ]
+                    },
+                    "surface": {
+                        "type": "plane",
+                        "origin": [
+                            0.0,
+                            0.0,
+                            0.017499999999999998
+                        ],
+                        "normal": [
+                            -1.0,
+                            0.0,
+                            0.0
+                        ]
+                    }
+                },
+                {
+                    "id": "JOW",
+                    "orientation": false,
+                    "area": 1.2499999999999994e-05,
+                    "loops": [
+                        {
+                            "type": "outer",
+                            "coedges": [
+                                {
+                                    "edgeId": "JPJ",
+                                    "orientation": true
+                                },
+                                {
+                                    "edgeId": "JOB",
+                                    "orientation": false
+                                },
+                                {
+                                    "edgeId": "JOt",
+                                    "orientation": false
+                                },
+                                {
+                                    "edgeId": "JON",
+                                    "orientation": true
+                                }
+                            ]
+                        }
+                    ],
+                    "box": {
+                        "minCorner": [
+                            -0.005,
+                            0.0025,
+                            0.015
+                        ],
+                        "maxCorner": [
+                            0.0,
+                            0.0025,
+                            0.017499999999999998
+                        ]
+                    },
+                    "surface": {
+                        "type": "plane",
+                        "origin": [
+                            -0.0025,
+                            0.0025,
+                            0.017499999999999998
+                        ],
+                        "normal": [
+                            0.0,
+                            -1.0,
+                            0.0
+                        ]
+                    }
+                },
+                {
+                    "id": "JOK",
+                    "orientation": true,
+                    "area": 2.5e-05,
+                    "loops": [
+                        {
+                            "type": "outer",
+                            "coedges": [
+                                {
+                                    "edgeId": "JOV",
+                                    "orientation": true
+                                },
+                                {
+                                    "edgeId": "JOd",
+                                    "orientation": true
+                                },
+                                {
+                                    "edgeId": "JOl",
+                                    "orientation": true
+                                },
+                                {
+                                    "edgeId": "JOt",
+                                    "orientation": true
+                                }
+                            ]
+                        }
+                    ],
+                    "box": {
+                        "minCorner": [
+                            -0.005,
+                            -0.0025,
+                            0.017499999999999998
+                        ],
+                        "maxCorner": [
+                            0.0,
+                            0.0025,
+                            0.017499999999999998
+                        ]
+                    },
+                    "surface": {
+                        "type": "plane",
+                        "origin": [
+                            0.0,
+                            0.0,
+                            0.017499999999999998
+                        ],
+                        "normal": [
+                            0.0,
+                            0.0,
+                            1.0
+                        ]
+                    }
+                },
+                {
+                    "id": "JQG",
+                    "orientation": true,
+                    "area": 4.714020411619436e-05,
+                    "loops": [
+                        {
+                            "type": "outer",
+                            "coedges": [
+                                {
+                                    "edgeId": "JQV",
+                                    "orientation": false
+                                },
+                                {
+                                    "edgeId": "JQR",
+                                    "orientation": false
+                                },
+                                {
+                                    "edgeId": "JQZ",
+                                    "orientation": false
+                                },
+                                {
+                                    "edgeId": "JQd",
+                                    "orientation": false
+                                }
+                            ]
+                        }
+                    ],
+                    "box": {
+                        "minCorner": [
+                            0.0019989613986187028,
+                            -0.005,
+                            0.011998961398618703
+                        ],
+                        "maxCorner": [
+                            0.005,
+                            0.005,
+                            0.015
+                        ]
+                    },
+                    "surface": {
+                        "type": "cylinder",
+                        "origin": [
+                            0.0019989613986187028,
+                            0.0,
+                            0.011998961398618703
+                        ],
+                        "axis": [
+                            0.0,
+                            -1.0,
+                            0.0
+                        ],
+                        "radius": 0.0030010386013812973
+                    }
+                },
+                {
+                    "id": "JQC",
+                    "orientation": true,
+                    "area": 4.714020411619436e-05,
+                    "loops": [
+                        {
+                            "type": "outer",
+                            "coedges": [
+                                {
+                                    "edgeId": "JQJ",
+                                    "orientation": false
+                                },
+                                {
+                                    "edgeId": "JQB",
+                                    "orientation": false
+                                },
+                                {
+                                    "edgeId": "JQF",
+                                    "orientation": false
+                                },
+                                {
+                                    "edgeId": "JQN",
+                                    "orientation": false
+                                }
+                            ]
+                        }
+                    ],
+                    "box": {
+                        "minCorner": [
+                            -0.005,
+                            -0.005,
+                            -8.673617379884035e-19
+                        ],
+                        "maxCorner": [
+                            -0.0019989613986187028,
+                            0.005,
+                            0.0030010386013812965
+                        ]
+                    },
+                    "surface": {
+                        "type": "cylinder",
+                        "origin": [
+                            -0.0019989613986187028,
+                            0.0,
+                            0.0030010386013812965
+                        ],
+                        "axis": [
+                            0.0,
+                            -1.0,
+                            0.0
+                        ],
+                        "radius": 0.0030010386013812973
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "id": "JQB",
+                    "geometry": {
+                        "startPoint": [
+                            -0.0019989613986187028,
+                            -0.005,
+                            0.0
+                        ],
+                        "endPoint": [
+                            -0.0019989613986187028,
+                            0.005,
+                            0.0
+                        ],
+                        "midPoint": [
+                            -0.0019989613986187028,
+                            0.0,
+                            0.0
+                        ],
+                        "quarterPoint": [
+                            -0.0019989613986187028,
+                            -0.0025,
+                            0.0
+                        ],
+                        "startVector": [
+                            0.0,
+                            1.0,
+                            0.0
+                        ],
+                        "endVector": [
+                            0.0,
+                            1.0,
+                            0.0
+                        ],
+                        "length": 0.01
+                    },
+                    "curve": {
+                        "type": "line"
+                    },
+                    "vertices": [
+                        "IQ",
+                        "JQE"
+                    ]
+                },
+                {
+                    "id": "JQN",
+                    "geometry": {
+                        "startPoint": [
+                            -0.005,
+                            0.005,
+                            0.0030010386013812965
+                        ],
+                        "endPoint": [
+                            -0.005,
+                            -0.005,
+                            0.0030010386013812965
+                        ],
+                        "midPoint": [
+                            -0.005,
+                            0.0,
+                            0.0030010386013812965
+                        ],
+                        "quarterPoint": [
+                            -0.005,
+                            0.0025,
+                            0.0030010386013812965
+                        ],
+                        "startVector": [
+                            0.0,
+                            -1.0,
+                            0.0
+                        ],
+                        "endVector": [
+                            0.0,
+                            -1.0,
+                            0.0
+                        ],
+                        "length": 0.01
+                    },
+                    "curve": {
+                        "type": "line"
+                    },
+                    "vertices": [
+                        "JQM",
+                        "JQI"
+                    ]
+                },
+                {
+                    "id": "JQV",
+                    "geometry": {
+                        "startPoint": [
+                            0.005,
+                            -0.005,
+                            0.011998961398618703
+                        ],
+                        "endPoint": [
+                            0.0019989613986187028,
+                            -0.005,
+                            0.015
+                        ],
+                        "midPoint": [
+                            0.00412101614425801,
+                            -0.005,
+                            0.01412101614425801
+                        ],
+                        "quarterPoint": [
+                            0.0047715595387111814,
+                            -0.005,
+                            0.013147409151255427
+                        ],
+                        "startVector": [
+                            0.0,
+                            0.0,
+                            1.0
+                        ],
+                        "endVector": [
+                            -1.0,
+                            0.0,
+                            0.0
+                        ],
+                        "length": 0.004714020411619436,
+                        "arcSweep": 1.5707963267948966,
+                        "arcIsCW": true
+                    },
+                    "curve": {
+                        "type": "circle",
+                        "origin": [
+                            0.0019989613986187028,
+                            -0.005,
+                            0.011998961398618703
+                        ],
+                        "normal": [
+                            0.0,
+                            1.0,
+                            0.0
+                        ],
+                        "radius": 0.0030010386013812973
+                    },
+                    "vertices": [
+                        "JQQ",
+                        "JQY"
+                    ]
+                },
+                {
+                    "id": "JQF",
+                    "geometry": {
+                        "startPoint": [
+                            -0.005,
+                            -0.005,
+                            0.003001038601381296
+                        ],
+                        "endPoint": [
+                            -0.0019989613986187023,
+                            -0.005,
+                            -8.673617379884035e-19
+                        ],
+                        "midPoint": [
+                            -0.00412101614425801,
+                            -0.005,
+                            0.0008789838557419884
+                        ],
+                        "quarterPoint": [
+                            -0.0047715595387111814,
+                            -0.005,
+                            0.0018525908487445715
+                        ],
+                        "startVector": [
+                            1.4451026014613412e-16,
+                            0.0,
+                            -1.0
+                        ],
+                        "endVector": [
+                            1.0,
+                            0.0,
+                            1.4451026014613412e-16
+                        ],
+                        "length": 0.004714020411619436,
+                        "arcSweep": 1.5707963267948966,
+                        "arcIsCW": true
+                    },
+                    "curve": {
+                        "type": "circle",
+                        "origin": [
+                            -0.0019989613986187028,
+                            -0.005,
+                            0.0030010386013812965
+                        ],
+                        "normal": [
+                            0.0,
+                            1.0,
+                            0.0
+                        ],
+                        "radius": 0.0030010386013812973
+                    },
+                    "vertices": [
+                        "JQI",
+                        "IQ"
+                    ]
+                },
+                {
+                    "id": "JQR",
+                    "geometry": {
+                        "startPoint": [
+                            0.005,
+                            0.005,
+                            0.011998961398618703
+                        ],
+                        "endPoint": [
+                            0.005,
+                            -0.005,
+                            0.011998961398618703
+                        ],
+                        "midPoint": [
+                            0.005,
+                            0.0,
+                            0.011998961398618703
+                        ],
+                        "quarterPoint": [
+                            0.005,
+                            0.0024999999999999996,
+                            0.011998961398618703
+                        ],
+                        "startVector": [
+                            0.0,
+                            -1.0,
+                            0.0
+                        ],
+                        "endVector": [
+                            0.0,
+                            -1.0,
+                            0.0
+                        ],
+                        "length": 0.01
+                    },
+                    "curve": {
+                        "type": "line"
+                    },
+                    "vertices": [
+                        "JQU",
+                        "JQQ"
+                    ]
+                },
+                {
+                    "id": "JQZ",
+                    "geometry": {
+                        "startPoint": [
+                            0.001998961398618703,
+                            0.005,
+                            0.015
+                        ],
+                        "endPoint": [
+                            0.005,
+                            0.005,
+                            0.011998961398618703
+                        ],
+                        "midPoint": [
+                            0.00412101614425801,
+                            0.005,
+                            0.01412101614425801
+                        ],
+                        "quarterPoint": [
+                            0.0031474091512554265,
+                            0.005,
+                            0.014771559538711182
+                        ],
+                        "startVector": [
+                            1.0,
+                            0.0,
+                            -1.4451026014613417e-16
+                        ],
+                        "endVector": [
+                            0.0,
+                            0.0,
+                            -1.0
+                        ],
+                        "length": 0.004714020411619436,
+                        "arcSweep": 1.5707963267948966,
+                        "arcIsCW": true
+                    },
+                    "curve": {
+                        "type": "circle",
+                        "origin": [
+                            0.0019989613986187028,
+                            0.005,
+                            0.011998961398618703
+                        ],
+                        "normal": [
+                            0.0,
+                            -1.0,
+                            0.0
+                        ],
+                        "radius": 0.0030010386013812973
+                    },
+                    "vertices": [
+                        "JQc",
+                        "JQU"
+                    ]
+                },
+                {
+                    "id": "JQJ",
+                    "geometry": {
+                        "startPoint": [
+                            -0.0019989613986187028,
+                            0.005,
+                            -8.673617379884035e-19
+                        ],
+                        "endPoint": [
+                            -0.005,
+                            0.005,
+                            0.003001038601381297
+                        ],
+                        "midPoint": [
+                            -0.004121016144258011,
+                            0.005,
+                            0.0008789838557419893
+                        ],
+                        "quarterPoint": [
+                            -0.0031474091512554278,
+                            0.005,
+                            0.00022844046128881823
+                        ],
+                        "startVector": [
+                            -1.0,
+                            0.0,
+                            0.0
+                        ],
+                        "endVector": [
+                            1.4451026014613412e-16,
+                            0.0,
+                            1.0
+                        ],
+                        "length": 0.004714020411619436,
+                        "arcSweep": 1.5707963267948966,
+                        "arcIsCW": true
+                    },
+                    "curve": {
+                        "type": "circle",
+                        "origin": [
+                            -0.0019989613986187028,
+                            0.005,
+                            0.0030010386013812965
+                        ],
+                        "normal": [
+                            0.0,
+                            -1.0,
+                            0.0
+                        ],
+                        "radius": 0.0030010386013812973
+                    },
+                    "vertices": [
+                        "JQE",
+                        "JQM"
+                    ]
+                },
+                {
+                    "id": "JQd",
+                    "geometry": {
+                        "startPoint": [
+                            0.0019989613986187028,
+                            -0.005,
+                            0.015
+                        ],
+                        "endPoint": [
+                            0.0019989613986187028,
+                            0.005,
+                            0.015
+                        ],
+                        "midPoint": [
+                            0.0019989613986187028,
+                            0.0,
+                            0.015
+                        ],
+                        "quarterPoint": [
+                            0.0019989613986187028,
+                            -0.0024999999999999996,
+                            0.015
+                        ],
+                        "startVector": [
+                            0.0,
+                            1.0,
+                            0.0
+                        ],
+                        "endVector": [
+                            0.0,
+                            1.0,
+                            0.0
+                        ],
+                        "length": 0.01
+                    },
+                    "curve": {
+                        "type": "line"
+                    },
+                    "vertices": [
+                        "JQY",
+                        "JQc"
+                    ]
+                },
+                {
+                    "id": "JQh",
+                    "geometry": {
+                        "startPoint": [
+                            -0.005,
+                            0.005,
+                            0.015
+                        ],
+                        "endPoint": [
+                            -0.005,
+                            0.005,
+                            0.0030010386013812965
+                        ],
+                        "midPoint": [
+                            -0.005,
+                            0.005,
+                            0.009000519300690648
+                        ],
+                        "quarterPoint": [
+                            -0.005,
+                            0.005,
+                            0.012000259650345324
+                        ],
+                        "startVector": [
+                            0.0,
+                            0.0,
+                            -1.0
+                        ],
+                        "endVector": [
+                            0.0,
+                            0.0,
+                            -1.0
+                        ],
+                        "length": 0.011998961398618703
+                    },
+                    "curve": {
+                        "type": "line"
+                    },
+                    "vertices": [
+                        "JHE",
+                        "JQM"
+                    ]
+                },
+                {
+                    "id": "JQl",
+                    "geometry": {
+                        "startPoint": [
+                            -0.005,
+                            -0.005,
+                            0.015
+                        ],
+                        "endPoint": [
+                            -0.005,
+                            -0.005,
+                            0.0030010386013812965
+                        ],
+                        "midPoint": [
+                            -0.005,
+                            -0.005,
+                            0.009000519300690648
+                        ],
+                        "quarterPoint": [
+                            -0.005,
+                            -0.005,
+                            0.012000259650345324
+                        ],
+                        "startVector": [
+                            0.0,
+                            0.0,
+                            -1.0
+                        ],
+                        "endVector": [
+                            0.0,
+                            0.0,
+                            -1.0
+                        ],
+                        "length": 0.011998961398618703
+                    },
+                    "curve": {
+                        "type": "line"
+                    },
+                    "vertices": [
+                        "JHM",
+                        "JQI"
+                    ]
+                },
+                {
+                    "id": "JQp",
+                    "geometry": {
+                        "startPoint": [
+                            0.005,
+                            -0.005,
+                            0.011998961398618703
+                        ],
+                        "endPoint": [
+                            0.005,
+                            -0.005,
+                            0.0
+                        ],
+                        "midPoint": [
+                            0.005,
+                            -0.005,
+                            0.0059994806993093515
+                        ],
+                        "quarterPoint": [
+                            0.005,
+                            -0.005,
+                            0.008999221048964027
+                        ],
+                        "startVector": [
+                            0.0,
+                            0.0,
+                            -1.0
+                        ],
+                        "endVector": [
+                            0.0,
+                            0.0,
+                            -1.0
+                        ],
+                        "length": 0.011998961398618703
+                    },
+                    "curve": {
+                        "type": "line"
+                    },
+                    "vertices": [
+                        "JQQ",
+                        "JHQ"
+                    ]
+                },
+                {
+                    "id": "JQt",
+                    "geometry": {
+                        "startPoint": [
+                            0.005,
+                            0.005,
+                            0.011998961398618703
+                        ],
+                        "endPoint": [
+                            0.005,
+                            0.005,
+                            0.0
+                        ],
+                        "midPoint": [
+                            0.005,
+                            0.005,
+                            0.0059994806993093515
+                        ],
+                        "quarterPoint": [
+                            0.005,
+                            0.005,
+                            0.008999221048964027
+                        ],
+                        "startVector": [
+                            0.0,
+                            0.0,
+                            -1.0
+                        ],
+                        "endVector": [
+                            0.0,
+                            0.0,
+                            -1.0
+                        ],
+                        "length": 0.011998961398618703
+                    },
+                    "curve": {
+                        "type": "line"
+                    },
+                    "vertices": [
+                        "JQU",
+                        "JHY"
+                    ]
+                },
+                {
+                    "id": "JQ1",
+                    "geometry": {
+                        "startPoint": [
+                            -0.005,
+                            -0.005,
+                            0.015
+                        ],
+                        "endPoint": [
+                            0.0019989613986187028,
+                            -0.005,
+                            0.015
+                        ],
+                        "midPoint": [
+                            -0.0015005193006906487,
+                            -0.005,
+                            0.015
+                        ],
+                        "quarterPoint": [
+                            -0.0032502596503453246,
+                            -0.005,
+                            0.015
+                        ],
+                        "startVector": [
+                            1.0,
+                            0.0,
+                            0.0
+                        ],
+                        "endVector": [
+                            1.0,
+                            0.0,
+                            0.0
+                        ],
+                        "length": 0.006998961398618703
+                    },
+                    "curve": {
+                        "type": "line"
+                    },
+                    "vertices": [
+                        "JHM",
+                        "JQY"
+                    ]
+                },
+                {
+                    "id": "JPN",
+                    "geometry": {
+                        "startPoint": [
+                            -0.005,
+                            0.005,
+                            0.015
+                        ],
+                        "endPoint": [
+                            -0.005,
+                            0.0025,
+                            0.015
+                        ],
+                        "midPoint": [
+                            -0.005,
+                            0.00375,
+                            0.015
+                        ],
+                        "quarterPoint": [
+                            -0.005,
+                            0.004375,
+                            0.015
+                        ],
+                        "startVector": [
+                            0.0,
+                            -1.0,
+                            0.0
+                        ],
+                        "endVector": [
+                            0.0,
+                            -1.0,
+                            0.0
+                        ],
+                        "length": 0.0025
+                    },
+                    "curve": {
+                        "type": "line"
+                    },
+                    "vertices": [
+                        "JHE",
+                        "IP"
+                    ]
+                },
+                {
+                    "id": "JPR",
+                    "geometry": {
+                        "startPoint": [
+                            -0.005,
+                            -0.0025,
+                            0.015
+                        ],
+                        "endPoint": [
+                            -0.005,
+                            -0.005,
+                            0.015
+                        ],
+                        "midPoint": [
+                            -0.005,
+                            -0.00375,
+                            0.015
+                        ],
+                        "quarterPoint": [
+                            -0.005,
+                            -0.003125,
+                            0.015
+                        ],
+                        "startVector": [
+                            0.0,
+                            -1.0,
+                            0.0
+                        ],
+                        "endVector": [
+                            0.0,
+                            -1.0,
+                            0.0
+                        ],
+                        "length": 0.0025
+                    },
+                    "curve": {
+                        "type": "line"
+                    },
+                    "vertices": [
+                        "JPE",
+                        "JHM"
+                    ]
+                },
+                {
+                    "id": "JQ9",
+                    "geometry": {
+                        "startPoint": [
+                            0.0019989613986187028,
+                            0.005,
+                            0.015
+                        ],
+                        "endPoint": [
+                            -0.005,
+                            0.005,
+                            0.015
+                        ],
+                        "midPoint": [
+                            -0.0015005193006906487,
+                            0.005,
+                            0.015
+                        ],
+                        "quarterPoint": [
+                            0.00024922104896402705,
+                            0.005,
+                            0.015
+                        ],
+                        "startVector": [
+                            -1.0,
+                            0.0,
+                            0.0
+                        ],
+                        "endVector": [
+                            -1.0,
+                            0.0,
+                            0.0
+                        ],
+                        "length": 0.006998961398618703
+                    },
+                    "curve": {
+                        "type": "line"
+                    },
+                    "vertices": [
+                        "JQc",
+                        "JHE"
+                    ]
+                },
+                {
+                    "id": "JHh",
+                    "geometry": {
+                        "startPoint": [
+                            0.005,
+                            -0.005,
+                            0.0
+                        ],
+                        "endPoint": [
+                            0.005,
+                            0.005,
+                            0.0
+                        ],
+                        "midPoint": [
+                            0.005,
+                            0.0,
+                            0.0
+                        ],
+                        "quarterPoint": [
+                            0.005,
+                            -0.0025,
+                            0.0
+                        ],
+                        "startVector": [
+                            0.0,
+                            1.0,
+                            0.0
+                        ],
+                        "endVector": [
+                            0.0,
+                            1.0,
+                            0.0
+                        ],
+                        "length": 0.01
+                    },
+                    "curve": {
+                        "type": "line"
+                    },
+                    "vertices": [
+                        "JHQ",
+                        "JHY"
+                    ]
+                },
+                {
+                    "id": "JQx",
+                    "geometry": {
+                        "startPoint": [
+                            -0.0019989613986187028,
+                            -0.005,
+                            0.0
+                        ],
+                        "endPoint": [
+                            0.005,
+                            -0.005,
+                            0.0
+                        ],
+                        "midPoint": [
+                            0.0015005193006906487,
+                            -0.005,
+                            0.0
+                        ],
+                        "quarterPoint": [
+                            -0.00024922104896402705,
+                            -0.005,
+                            0.0
+                        ],
+                        "startVector": [
+                            1.0,
+                            0.0,
+                            0.0
+                        ],
+                        "endVector": [
+                            1.0,
+                            0.0,
+                            0.0
+                        ],
+                        "length": 0.006998961398618703
+                    },
+                    "curve": {
+                        "type": "line"
+                    },
+                    "vertices": [
+                        "IQ",
+                        "JHQ"
+                    ]
+                },
+                {
+                    "id": "JQ5",
+                    "geometry": {
+                        "startPoint": [
+                            0.005,
+                            0.005,
+                            0.0
+                        ],
+                        "endPoint": [
+                            -0.0019989613986187028,
+                            0.005,
+                            0.0
+                        ],
+                        "midPoint": [
+                            0.0015005193006906487,
+                            0.005,
+                            0.0
+                        ],
+                        "quarterPoint": [
+                            0.0032502596503453246,
+                            0.005,
+                            0.0
+                        ],
+                        "startVector": [
+                            -1.0,
+                            0.0,
+                            0.0
+                        ],
+                        "endVector": [
+                            -1.0,
+                            0.0,
+                            0.0
+                        ],
+                        "length": 0.006998961398618703
+                    },
+                    "curve": {
+                        "type": "line"
+                    },
+                    "vertices": [
+                        "JHY",
+                        "JQE"
+                    ]
+                },
+                {
+                    "id": "JLB",
+                    "geometry": {
+                        "startPoint": [
+                            0.0,
+                            -0.005,
+                            0.004999999999999999
+                        ],
+                        "endPoint": [
+                            0.0,
+                            -0.005,
+                            0.004999999999999999
+                        ],
+                        "midPoint": [
+                            3.061616997868383e-19,
+                            -0.005,
+                            0.01
+                        ],
+                        "quarterPoint": [
+                            0.0025,
+                            -0.005,
+                            0.0075
+                        ],
+                        "startVector": [
+                            1.0,
+                            0.0,
+                            0.0
+                        ],
+                        "endVector": [
+                            1.0,
+                            0.0,
+                            0.0
+                        ],
+                        "length": 0.015707963267948967,
+                        "arcSweep": 6.283185307179586,
+                        "arcIsCW": false
+                    },
+                    "curve": {
+                        "type": "circle",
+                        "origin": [
+                            0.0,
+                            -0.005,
+                            0.0075
+                        ],
+                        "normal": [
+                            0.0,
+                            -1.0,
+                            0.0
+                        ],
+                        "radius": 0.0025
+                    },
+                    "vertices": []
+                },
+                {
+                    "id": "JLF",
+                    "geometry": {
+                        "startPoint": [
+                            0.0,
+                            0.005,
+                            0.004999999999999999
+                        ],
+                        "endPoint": [
+                            0.0,
+                            0.005,
+                            0.004999999999999999
+                        ],
+                        "midPoint": [
+                            3.061616997868383e-19,
+                            0.005,
+                            0.01
+                        ],
+                        "quarterPoint": [
+                            -0.0025,
+                            0.005,
+                            0.007500000000000001
+                        ],
+                        "startVector": [
+                            -1.0,
+                            0.0,
+                            0.0
+                        ],
+                        "endVector": [
+                            -1.0,
+                            0.0,
+                            0.0
+                        ],
+                        "length": 0.015707963267948967,
+                        "arcSweep": 6.283185307179586,
+                        "arcIsCW": true
+                    },
+                    "curve": {
+                        "type": "circle",
+                        "origin": [
+                            0.0,
+                            0.005,
+                            0.0075
+                        ],
+                        "normal": [
+                            0.0,
+                            -1.0,
+                            0.0
+                        ],
+                        "radius": 0.0025
+                    },
+                    "vertices": []
+                },
+                {
+                    "id": "JOF",
+                    "geometry": {
+                        "startPoint": [
+                            -0.005,
+                            -0.0025,
+                            0.017499999999999998
+                        ],
+                        "endPoint": [
+                            -0.005,
+                            -0.0025,
+                            0.015
+                        ],
+                        "midPoint": [
+                            -0.005,
+                            -0.0025,
+                            0.01625
+                        ],
+                        "quarterPoint": [
+                            -0.005,
+                            -0.0025,
+                            0.016874999999999998
+                        ],
+                        "startVector": [
+                            0.0,
+                            0.0,
+                            -1.0
+                        ],
+                        "endVector": [
+                            0.0,
+                            0.0,
+                            -1.0
+                        ],
+                        "length": 0.0024999999999999988
+                    },
+                    "curve": {
+                        "type": "line"
+                    },
+                    "vertices": [
+                        "JOM",
+                        "JPE"
+                    ]
+                },
+                {
+                    "id": "JOJ",
+                    "geometry": {
+                        "startPoint": [
+                            0.0,
+                            -0.0025,
+                            0.017499999999999998
+                        ],
+                        "endPoint": [
+                            0.0,
+                            -0.0025,
+                            0.015
+                        ],
+                        "midPoint": [
+                            0.0,
+                            -0.0025,
+                            0.01625
+                        ],
+                        "quarterPoint": [
+                            0.0,
+                            -0.0025,
+                            0.016874999999999998
+                        ],
+                        "startVector": [
+                            0.0,
+                            0.0,
+                            -1.0
+                        ],
+                        "endVector": [
+                            0.0,
+                            0.0,
+                            -1.0
+                        ],
+                        "length": 0.0024999999999999988
+                    },
+                    "curve": {
+                        "type": "line"
+                    },
+                    "vertices": [
+                        "JOU",
+                        "JPI"
+                    ]
+                },
+                {
+                    "id": "JON",
+                    "geometry": {
+                        "startPoint": [
+                            0.0,
+                            0.0025,
+                            0.017499999999999998
+                        ],
+                        "endPoint": [
+                            0.0,
+                            0.0025,
+                            0.015
+                        ],
+                        "midPoint": [
+                            0.0,
+                            0.0025,
+                            0.01625
+                        ],
+                        "quarterPoint": [
+                            0.0,
+                            0.0025,
+                            0.016874999999999998
+                        ],
+                        "startVector": [
+                            0.0,
+                            0.0,
+                            -1.0
+                        ],
+                        "endVector": [
+                            0.0,
+                            0.0,
+                            -1.0
+                        ],
+                        "length": 0.0024999999999999988
+                    },
+                    "curve": {
+                        "type": "line"
+                    },
+                    "vertices": [
+                        "JOc",
+                        "JPM"
+                    ]
+                },
+                {
+                    "id": "JOB",
+                    "geometry": {
+                        "startPoint": [
+                            -0.005,
+                            0.0025,
+                            0.017499999999999998
+                        ],
+                        "endPoint": [
+                            -0.005,
+                            0.0025,
+                            0.015
+                        ],
+                        "midPoint": [
+                            -0.005,
+                            0.0025,
+                            0.01625
+                        ],
+                        "quarterPoint": [
+                            -0.005,
+                            0.0025,
+                            0.016874999999999998
+                        ],
+                        "startVector": [
+                            0.0,
+                            0.0,
+                            -1.0
+                        ],
+                        "endVector": [
+                            0.0,
+                            0.0,
+                            -1.0
+                        ],
+                        "length": 0.0024999999999999988
+                    },
+                    "curve": {
+                        "type": "line"
+                    },
+                    "vertices": [
+                        "JOE",
+                        "IP"
+                    ]
+                },
+                {
+                    "id": "JOt",
+                    "geometry": {
+                        "startPoint": [
+                            0.0,
+                            0.0025,
+                            0.017499999999999998
+                        ],
+                        "endPoint": [
+                            -0.005,
+                            0.0025,
+                            0.017499999999999998
+                        ],
+                        "midPoint": [
+                            -0.0025,
+                            0.0025,
+                            0.017499999999999998
+                        ],
+                        "quarterPoint": [
+                            -0.00125,
+                            0.0025,
+                            0.017499999999999998
+                        ],
+                        "startVector": [
+                            -1.0,
+                            0.0,
+                            0.0
+                        ],
+                        "endVector": [
+                            -1.0,
+                            0.0,
+                            0.0
+                        ],
+                        "length": 0.005
+                    },
+                    "curve": {
+                        "type": "line"
+                    },
+                    "vertices": [
+                        "JOc",
+                        "JOE"
+                    ]
+                },
+                {
+                    "id": "JOl",
+                    "geometry": {
+                        "startPoint": [
+                            0.0,
+                            -0.0025,
+                            0.017499999999999998
+                        ],
+                        "endPoint": [
+                            0.0,
+                            0.0025,
+                            0.017499999999999998
+                        ],
+                        "midPoint": [
+                            0.0,
+                            0.0,
+                            0.017499999999999998
+                        ],
+                        "quarterPoint": [
+                            0.0,
+                            -0.00125,
+                            0.017499999999999998
+                        ],
+                        "startVector": [
+                            0.0,
+                            1.0,
+                            0.0
+                        ],
+                        "endVector": [
+                            0.0,
+                            1.0,
+                            0.0
+                        ],
+                        "length": 0.005
+                    },
+                    "curve": {
+                        "type": "line"
+                    },
+                    "vertices": [
+                        "JOU",
+                        "JOc"
+                    ]
+                },
+                {
+                    "id": "JOd",
+                    "geometry": {
+                        "startPoint": [
+                            -0.005,
+                            -0.0025,
+                            0.017499999999999998
+                        ],
+                        "endPoint": [
+                            0.0,
+                            -0.0025,
+                            0.017499999999999998
+                        ],
+                        "midPoint": [
+                            -0.0025,
+                            -0.0025,
+                            0.017499999999999998
+                        ],
+                        "quarterPoint": [
+                            -0.00375,
+                            -0.0025,
+                            0.017499999999999998
+                        ],
+                        "startVector": [
+                            1.0,
+                            0.0,
+                            0.0
+                        ],
+                        "endVector": [
+                            1.0,
+                            0.0,
+                            0.0
+                        ],
+                        "length": 0.005
+                    },
+                    "curve": {
+                        "type": "line"
+                    },
+                    "vertices": [
+                        "JOM",
+                        "JOU"
+                    ]
+                },
+                {
+                    "id": "JOV",
+                    "geometry": {
+                        "startPoint": [
+                            -0.005,
+                            0.0025,
+                            0.017499999999999998
+                        ],
+                        "endPoint": [
+                            -0.005,
+                            -0.0025,
+                            0.017499999999999998
+                        ],
+                        "midPoint": [
+                            -0.005,
+                            0.0,
+                            0.017499999999999998
+                        ],
+                        "quarterPoint": [
+                            -0.005,
+                            0.00125,
+                            0.017499999999999998
+                        ],
+                        "startVector": [
+                            0.0,
+                            -1.0,
+                            0.0
+                        ],
+                        "endVector": [
+                            0.0,
+                            -1.0,
+                            0.0
+                        ],
+                        "length": 0.005
+                    },
+                    "curve": {
+                        "type": "line"
+                    },
+                    "vertices": [
+                        "JOE",
+                        "JOM"
+                    ]
+                },
+                {
+                    "id": "JPJ",
+                    "geometry": {
+                        "startPoint": [
+                            0.0,
+                            0.0025,
+                            0.015
+                        ],
+                        "endPoint": [
+                            -0.005,
+                            0.0025,
+                            0.015
+                        ],
+                        "midPoint": [
+                            -0.0025,
+                            0.0025,
+                            0.015
+                        ],
+                        "quarterPoint": [
+                            -0.00125,
+                            0.0025,
+                            0.015
+                        ],
+                        "startVector": [
+                            -1.0,
+                            0.0,
+                            0.0
+                        ],
+                        "endVector": [
+                            -1.0,
+                            0.0,
+                            0.0
+                        ],
+                        "length": 0.005
+                    },
+                    "curve": {
+                        "type": "line"
+                    },
+                    "vertices": [
+                        "JPM",
+                        "IP"
+                    ]
+                },
+                {
+                    "id": "JPF",
+                    "geometry": {
+                        "startPoint": [
+                            0.0,
+                            -0.0025,
+                            0.015
+                        ],
+                        "endPoint": [
+                            0.0,
+                            0.0025,
+                            0.015
+                        ],
+                        "midPoint": [
+                            0.0,
+                            0.0,
+                            0.015
+                        ],
+                        "quarterPoint": [
+                            0.0,
+                            -0.00125,
+                            0.015
+                        ],
+                        "startVector": [
+                            0.0,
+                            1.0,
+                            0.0
+                        ],
+                        "endVector": [
+                            0.0,
+                            1.0,
+                            0.0
+                        ],
+                        "length": 0.005
+                    },
+                    "curve": {
+                        "type": "line"
+                    },
+                    "vertices": [
+                        "JPI",
+                        "JPM"
+                    ]
+                },
+                {
+                    "id": "JPB",
+                    "geometry": {
+                        "startPoint": [
+                            -0.005,
+                            -0.0025,
+                            0.015
+                        ],
+                        "endPoint": [
+                            0.0,
+                            -0.0025,
+                            0.015
+                        ],
+                        "midPoint": [
+                            -0.0025,
+                            -0.0025,
+                            0.015
+                        ],
+                        "quarterPoint": [
+                            -0.00375,
+                            -0.0025,
+                            0.015
+                        ],
+                        "startVector": [
+                            1.0,
+                            0.0,
+                            0.0
+                        ],
+                        "endVector": [
+                            1.0,
+                            0.0,
+                            0.0
+                        ],
+                        "length": 0.005
+                    },
+                    "curve": {
+                        "type": "line"
+                    },
+                    "vertices": [
+                        "JPE",
+                        "JPI"
+                    ]
+                }
+            ],
+            "vertices": [
+                {
+                    "id": "JQI",
+                    "point": [
+                        -0.005,
+                        -0.005,
+                        0.0030010386013812965
+                    ]
+                },
+                {
+                    "id": "IQ",
+                    "point": [
+                        -0.0019989613986187028,
+                        -0.005,
+                        0.0
+                    ]
+                },
+                {
+                    "id": "JQQ",
+                    "point": [
+                        0.005,
+                        -0.005,
+                        0.011998961398618703
+                    ]
+                },
+                {
+                    "id": "JQU",
+                    "point": [
+                        0.005,
+                        0.005,
+                        0.011998961398618703
+                    ]
+                },
+                {
+                    "id": "JQM",
+                    "point": [
+                        -0.005,
+                        0.005,
+                        0.0030010386013812965
+                    ]
+                },
+                {
+                    "id": "JQE",
+                    "point": [
+                        -0.0019989613986187028,
+                        0.005,
+                        0.0
+                    ]
+                },
+                {
+                    "id": "JQc",
+                    "point": [
+                        0.0019989613986187028,
+                        0.005,
+                        0.015
+                    ]
+                },
+                {
+                    "id": "JQY",
+                    "point": [
+                        0.0019989613986187028,
+                        -0.005,
+                        0.015
+                    ]
+                },
+                {
+                    "id": "JPM",
+                    "point": [
+                        0.0,
+                        0.0025,
+                        0.015
+                    ]
+                },
+                {
+                    "id": "JPE",
+                    "point": [
+                        -0.005,
+                        -0.0025,
+                        0.015
+                    ]
+                },
+                {
+                    "id": "IP",
+                    "point": [
+                        -0.005,
+                        0.0025,
+                        0.015
+                    ]
+                },
+                {
+                    "id": "JHM",
+                    "point": [
+                        -0.005,
+                        -0.005,
+                        0.015
+                    ]
+                },
+                {
+                    "id": "JHE",
+                    "point": [
+                        -0.005,
+                        0.005,
+                        0.015
+                    ]
+                },
+                {
+                    "id": "JHY",
+                    "point": [
+                        0.005,
+                        0.005,
+                        0.0
+                    ]
+                },
+                {
+                    "id": "JHQ",
+                    "point": [
+                        0.005,
+                        -0.005,
+                        0.0
+                    ]
+                },
+                {
+                    "id": "JOE",
+                    "point": [
+                        -0.005,
+                        0.0025,
+                        0.017499999999999998
+                    ]
+                },
+                {
+                    "id": "JOc",
+                    "point": [
+                        0.0,
+                        0.0025,
+                        0.017499999999999998
+                    ]
+                },
+                {
+                    "id": "JOU",
+                    "point": [
+                        0.0,
+                        -0.0025,
+                        0.017499999999999998
+                    ]
+                },
+                {
+                    "id": "JOM",
+                    "point": [
+                        -0.005,
+                        -0.0025,
+                        0.017499999999999998
+                    ]
+                },
+                {
+                    "id": "JPI",
+                    "point": [
+                        0.0,
+                        -0.0025,
+                        0.015
+                    ]
+                }
+            ],
+            "consumedByComposite": false
+        }
+    ],
+    "documentMicroversion": "eb47e6e4a277ad5470689de1"
+}

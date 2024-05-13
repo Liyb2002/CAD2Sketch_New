@@ -1,0 +1,186 @@
+{
+    "0": {
+        "connecting_stroke_ids": [
+            4,
+            81
+        ],
+        "intersection_id": 0,
+        "line_3d": [],
+        "type": "projection",
+        "affected_stroke_ids": [
+            97
+        ]
+    },
+    "1": {
+        "connecting_stroke_ids": [
+            0,
+            82
+        ],
+        "intersection_id": 1,
+        "line_3d": [],
+        "type": "projection",
+        "affected_stroke_ids": [
+            97
+        ]
+    },
+    "2": {
+        "connecting_stroke_ids": [
+            83
+        ],
+        "intersection_id": 2,
+        "line_3d": [],
+        "type": "projection",
+        "affected_stroke_ids": [
+            97
+        ]
+    },
+    "3": {
+        "connecting_stroke_ids": [
+            84
+        ],
+        "intersection_id": 3,
+        "line_3d": [],
+        "type": "projection",
+        "affected_stroke_ids": [
+            97
+        ]
+    },
+    "4": {
+        "connecting_stroke_ids": [
+            7,
+            85
+        ],
+        "intersection_id": 4,
+        "line_3d": [],
+        "type": "projection",
+        "affected_stroke_ids": [
+            98
+        ]
+    },
+    "5": {
+        "connecting_stroke_ids": [
+            2,
+            86
+        ],
+        "intersection_id": 5,
+        "line_3d": [],
+        "type": "projection",
+        "affected_stroke_ids": [
+            98
+        ]
+    },
+    "6": {
+        "connecting_stroke_ids": [
+            87
+        ],
+        "intersection_id": 6,
+        "line_3d": [],
+        "type": "projection",
+        "affected_stroke_ids": [
+            98
+        ]
+    },
+    "7": {
+        "connecting_stroke_ids": [
+            88
+        ],
+        "intersection_id": 7,
+        "line_3d": [],
+        "type": "projection",
+        "affected_stroke_ids": [
+            98
+        ]
+    },
+    "8": {
+        "connecting_stroke_ids": [
+            10,
+            89
+        ],
+        "intersection_id": 8,
+        "line_3d": [],
+        "type": "projection",
+        "affected_stroke_ids": [
+            99
+        ]
+    },
+    "9": {
+        "connecting_stroke_ids": [
+            9,
+            90
+        ],
+        "intersection_id": 9,
+        "line_3d": [],
+        "type": "projection",
+        "affected_stroke_ids": [
+            99
+        ]
+    },
+    "10": {
+        "connecting_stroke_ids": [
+            91
+        ],
+        "intersection_id": 10,
+        "line_3d": [],
+        "type": "projection",
+        "affected_stroke_ids": [
+            99
+        ]
+    },
+    "11": {
+        "connecting_stroke_ids": [
+            92
+        ],
+        "intersection_id": 11,
+        "line_3d": [],
+        "type": "projection",
+        "affected_stroke_ids": [
+            99
+        ]
+    },
+    "12": {
+        "connecting_stroke_ids": [
+            6,
+            93
+        ],
+        "intersection_id": 12,
+        "line_3d": [],
+        "type": "projection",
+        "affected_stroke_ids": [
+            100
+        ]
+    },
+    "13": {
+        "connecting_stroke_ids": [
+            5,
+            94
+        ],
+        "intersection_id": 13,
+        "line_3d": [],
+        "type": "projection",
+        "affected_stroke_ids": [
+            100
+        ]
+    },
+    "14": {
+        "connecting_stroke_ids": [
+            95
+        ],
+        "intersection_id": 14,
+        "line_3d": [],
+        "type": "projection",
+        "affected_stroke_ids": [
+            100
+        ]
+    },
+    "15": {
+        "connecting_stroke_ids": [
+            96
+        ],
+        "intersection_id": 15,
+        "line_3d": [],
+        "type": "projection",
+        "affected_stroke_ids": [
+            100
+        ]
+    }
+}

@@ -1,0 +1,1060 @@
+{
+  "console" : "",
+  "notices" : [ {
+    "type" : 227,
+    "typeName" : "BTNotice",
+    "message" : {
+      "level" : "INFO",
+      "type" : "SEMANTIC",
+      "message" : "Variable all_face_ids set but not used",
+      "stackTrace" : [ {
+        "type" : 226,
+        "typeName" : "BTLocationInfo",
+        "message" : {
+          "document" : "97fd87a958ea459e2ff40fa0",
+          "version" : "17cc861d1409f93512f58f41",
+          "topLevel" : "",
+          "parseNodeId" : "PCitjnekCXA/wo4t7",
+          "character" : 0,
+          "line" : 0,
+          "column" : 0,
+          "endCharacter" : 0,
+          "endLine" : 0,
+          "endColumn" : 0,
+          "languageVersion" : 0,
+          "moduleIds" : {
+            "type" : 0
+          },
+          "elementMicroversion" : "17cc861d1409f93512f58f41",
+          "nodeId" : "cNzxUZcPxkD8sTI5"
+        }
+      } ],
+      "tryNode" : {
+        "type" : 0
+      },
+      "parameterId" : "",
+      "nodeId" : "nhxUxhh4VciVOiMT"
+    }
+  } ],
+  "result" : {
+    "type" : 2062,
+    "typeName" : "BTFSValueMap",
+    "message" : {
+      "value" : [ {
+        "type" : 2077,
+        "typeName" : "BTFSValueMapEntry",
+        "message" : {
+          "key" : {
+            "type" : 1422,
+            "typeName" : "BTFSValueString",
+            "message" : {
+              "value" : "edges",
+              "typeTag" : ""
+            }
+          },
+          "value" : {
+            "type" : 1499,
+            "typeName" : "BTFSValueArray",
+            "message" : {
+              "value" : [ {
+                "type" : 2062,
+                "typeName" : "BTFSValueMap",
+                "message" : {
+                  "value" : [ {
+                    "type" : 2077,
+                    "typeName" : "BTFSValueMapEntry",
+                    "message" : {
+                      "key" : {
+                        "type" : 1422,
+                        "typeName" : "BTFSValueString",
+                        "message" : {
+                          "value" : "id",
+                          "typeTag" : ""
+                        }
+                      },
+                      "value" : {
+                        "type" : 1422,
+                        "typeName" : "BTFSValueString",
+                        "message" : {
+                          "value" : "JGB",
+                          "typeTag" : ""
+                        }
+                      }
+                    }
+                  }, {
+                    "type" : 2077,
+                    "typeName" : "BTFSValueMapEntry",
+                    "message" : {
+                      "key" : {
+                        "type" : 1422,
+                        "typeName" : "BTFSValueString",
+                        "message" : {
+                          "value" : "param",
+                          "typeTag" : ""
+                        }
+                      },
+                      "value" : {
+                        "type" : 2062,
+                        "typeName" : "BTFSValueMap",
+                        "message" : {
+                          "value" : [ {
+                            "type" : 2077,
+                            "typeName" : "BTFSValueMapEntry",
+                            "message" : {
+                              "key" : {
+                                "type" : 1422,
+                                "typeName" : "BTFSValueString",
+                                "message" : {
+                                  "value" : "coordSystem",
+                                  "typeTag" : ""
+                                }
+                              },
+                              "value" : {
+                                "type" : 2062,
+                                "typeName" : "BTFSValueMap",
+                                "message" : {
+                                  "value" : [ {
+                                    "type" : 2077,
+                                    "typeName" : "BTFSValueMapEntry",
+                                    "message" : {
+                                      "key" : {
+                                        "type" : 1422,
+                                        "typeName" : "BTFSValueString",
+                                        "message" : {
+                                          "value" : "origin",
+                                          "typeTag" : ""
+                                        }
+                                      },
+                                      "value" : {
+                                        "type" : 1499,
+                                        "typeName" : "BTFSValueArray",
+                                        "message" : {
+                                          "value" : [ {
+                                            "type" : 1817,
+                                            "typeName" : "BTFSValueWithUnits",
+                                            "message" : {
+                                              "value" : 0.0,
+                                              "unitToPower" : [ {
+                                                "key" : "METER",
+                                                "value" : 1
+                                              } ],
+                                              "typeTag" : ""
+                                            }
+                                          }, {
+                                            "type" : 1817,
+                                            "typeName" : "BTFSValueWithUnits",
+                                            "message" : {
+                                              "value" : 0.0,
+                                              "unitToPower" : [ {
+                                                "key" : "METER",
+                                                "value" : 1
+                                              } ],
+                                              "typeTag" : ""
+                                            }
+                                          }, {
+                                            "type" : 1817,
+                                            "typeName" : "BTFSValueWithUnits",
+                                            "message" : {
+                                              "value" : 0.0,
+                                              "unitToPower" : [ {
+                                                "key" : "METER",
+                                                "value" : 1
+                                              } ],
+                                              "typeTag" : ""
+                                            }
+                                          } ],
+                                          "typeTag" : "Vector"
+                                        }
+                                      }
+                                    }
+                                  }, {
+                                    "type" : 2077,
+                                    "typeName" : "BTFSValueMapEntry",
+                                    "message" : {
+                                      "key" : {
+                                        "type" : 1422,
+                                        "typeName" : "BTFSValueString",
+                                        "message" : {
+                                          "value" : "xAxis",
+                                          "typeTag" : ""
+                                        }
+                                      },
+                                      "value" : {
+                                        "type" : 1499,
+                                        "typeName" : "BTFSValueArray",
+                                        "message" : {
+                                          "value" : [ {
+                                            "type" : 772,
+                                            "typeName" : "BTFSValueNumber",
+                                            "message" : {
+                                              "value" : 1.0,
+                                              "typeTag" : ""
+                                            }
+                                          }, {
+                                            "type" : 772,
+                                            "typeName" : "BTFSValueNumber",
+                                            "message" : {
+                                              "value" : 0.0,
+                                              "typeTag" : ""
+                                            }
+                                          }, {
+                                            "type" : 772,
+                                            "typeName" : "BTFSValueNumber",
+                                            "message" : {
+                                              "value" : 0.0,
+                                              "typeTag" : ""
+                                            }
+                                          } ],
+                                          "typeTag" : "Vector"
+                                        }
+                                      }
+                                    }
+                                  }, {
+                                    "type" : 2077,
+                                    "typeName" : "BTFSValueMapEntry",
+                                    "message" : {
+                                      "key" : {
+                                        "type" : 1422,
+                                        "typeName" : "BTFSValueString",
+                                        "message" : {
+                                          "value" : "zAxis",
+                                          "typeTag" : ""
+                                        }
+                                      },
+                                      "value" : {
+                                        "type" : 1499,
+                                        "typeName" : "BTFSValueArray",
+                                        "message" : {
+                                          "value" : [ {
+                                            "type" : 772,
+                                            "typeName" : "BTFSValueNumber",
+                                            "message" : {
+                                              "value" : 0.0,
+                                              "typeTag" : ""
+                                            }
+                                          }, {
+                                            "type" : 772,
+                                            "typeName" : "BTFSValueNumber",
+                                            "message" : {
+                                              "value" : 0.0,
+                                              "typeTag" : ""
+                                            }
+                                          }, {
+                                            "type" : 772,
+                                            "typeName" : "BTFSValueNumber",
+                                            "message" : {
+                                              "value" : 1.0,
+                                              "typeTag" : ""
+                                            }
+                                          } ],
+                                          "typeTag" : "Vector"
+                                        }
+                                      }
+                                    }
+                                  } ],
+                                  "typeTag" : "CoordSystem"
+                                }
+                              }
+                            }
+                          }, {
+                            "type" : 2077,
+                            "typeName" : "BTFSValueMapEntry",
+                            "message" : {
+                              "key" : {
+                                "type" : 1422,
+                                "typeName" : "BTFSValueString",
+                                "message" : {
+                                  "value" : "radius",
+                                  "typeTag" : ""
+                                }
+                              },
+                              "value" : {
+                                "type" : 1817,
+                                "typeName" : "BTFSValueWithUnits",
+                                "message" : {
+                                  "value" : 0.0381,
+                                  "unitToPower" : [ {
+                                    "key" : "METER",
+                                    "value" : 1
+                                  } ],
+                                  "typeTag" : ""
+                                }
+                              }
+                            }
+                          } ],
+                          "typeTag" : "Circle"
+                        }
+                      }
+                    }
+                  }, {
+                    "type" : 2077,
+                    "typeName" : "BTFSValueMapEntry",
+                    "message" : {
+                      "key" : {
+                        "type" : 1422,
+                        "typeName" : "BTFSValueString",
+                        "message" : {
+                          "value" : "vertices",
+                          "typeTag" : ""
+                        }
+                      },
+                      "value" : {
+                        "type" : 1499,
+                        "typeName" : "BTFSValueArray",
+                        "message" : {
+                          "value" : [ ],
+                          "typeTag" : ""
+                        }
+                      }
+                    }
+                  } ],
+                  "typeTag" : ""
+                }
+              }, {
+                "type" : 2062,
+                "typeName" : "BTFSValueMap",
+                "message" : {
+                  "value" : [ {
+                    "type" : 2077,
+                    "typeName" : "BTFSValueMapEntry",
+                    "message" : {
+                      "key" : {
+                        "type" : 1422,
+                        "typeName" : "BTFSValueString",
+                        "message" : {
+                          "value" : "id",
+                          "typeTag" : ""
+                        }
+                      },
+                      "value" : {
+                        "type" : 1422,
+                        "typeName" : "BTFSValueString",
+                        "message" : {
+                          "value" : "JGF",
+                          "typeTag" : ""
+                        }
+                      }
+                    }
+                  }, {
+                    "type" : 2077,
+                    "typeName" : "BTFSValueMapEntry",
+                    "message" : {
+                      "key" : {
+                        "type" : 1422,
+                        "typeName" : "BTFSValueString",
+                        "message" : {
+                          "value" : "param",
+                          "typeTag" : ""
+                        }
+                      },
+                      "value" : {
+                        "type" : 2062,
+                        "typeName" : "BTFSValueMap",
+                        "message" : {
+                          "value" : [ {
+                            "type" : 2077,
+                            "typeName" : "BTFSValueMapEntry",
+                            "message" : {
+                              "key" : {
+                                "type" : 1422,
+                                "typeName" : "BTFSValueString",
+                                "message" : {
+                                  "value" : "coordSystem",
+                                  "typeTag" : ""
+                                }
+                              },
+                              "value" : {
+                                "type" : 2062,
+                                "typeName" : "BTFSValueMap",
+                                "message" : {
+                                  "value" : [ {
+                                    "type" : 2077,
+                                    "typeName" : "BTFSValueMapEntry",
+                                    "message" : {
+                                      "key" : {
+                                        "type" : 1422,
+                                        "typeName" : "BTFSValueString",
+                                        "message" : {
+                                          "value" : "origin",
+                                          "typeTag" : ""
+                                        }
+                                      },
+                                      "value" : {
+                                        "type" : 1499,
+                                        "typeName" : "BTFSValueArray",
+                                        "message" : {
+                                          "value" : [ {
+                                            "type" : 1817,
+                                            "typeName" : "BTFSValueWithUnits",
+                                            "message" : {
+                                              "value" : 0.0,
+                                              "unitToPower" : [ {
+                                                "key" : "METER",
+                                                "value" : 1
+                                              } ],
+                                              "typeTag" : ""
+                                            }
+                                          }, {
+                                            "type" : 1817,
+                                            "typeName" : "BTFSValueWithUnits",
+                                            "message" : {
+                                              "value" : 0.0,
+                                              "unitToPower" : [ {
+                                                "key" : "METER",
+                                                "value" : 1
+                                              } ],
+                                              "typeTag" : ""
+                                            }
+                                          }, {
+                                            "type" : 1817,
+                                            "typeName" : "BTFSValueWithUnits",
+                                            "message" : {
+                                              "value" : 0.0,
+                                              "unitToPower" : [ {
+                                                "key" : "METER",
+                                                "value" : 1
+                                              } ],
+                                              "typeTag" : ""
+                                            }
+                                          } ],
+                                          "typeTag" : "Vector"
+                                        }
+                                      }
+                                    }
+                                  }, {
+                                    "type" : 2077,
+                                    "typeName" : "BTFSValueMapEntry",
+                                    "message" : {
+                                      "key" : {
+                                        "type" : 1422,
+                                        "typeName" : "BTFSValueString",
+                                        "message" : {
+                                          "value" : "xAxis",
+                                          "typeTag" : ""
+                                        }
+                                      },
+                                      "value" : {
+                                        "type" : 1499,
+                                        "typeName" : "BTFSValueArray",
+                                        "message" : {
+                                          "value" : [ {
+                                            "type" : 772,
+                                            "typeName" : "BTFSValueNumber",
+                                            "message" : {
+                                              "value" : 1.0,
+                                              "typeTag" : ""
+                                            }
+                                          }, {
+                                            "type" : 772,
+                                            "typeName" : "BTFSValueNumber",
+                                            "message" : {
+                                              "value" : 0.0,
+                                              "typeTag" : ""
+                                            }
+                                          }, {
+                                            "type" : 772,
+                                            "typeName" : "BTFSValueNumber",
+                                            "message" : {
+                                              "value" : 0.0,
+                                              "typeTag" : ""
+                                            }
+                                          } ],
+                                          "typeTag" : "Vector"
+                                        }
+                                      }
+                                    }
+                                  }, {
+                                    "type" : 2077,
+                                    "typeName" : "BTFSValueMapEntry",
+                                    "message" : {
+                                      "key" : {
+                                        "type" : 1422,
+                                        "typeName" : "BTFSValueString",
+                                        "message" : {
+                                          "value" : "zAxis",
+                                          "typeTag" : ""
+                                        }
+                                      },
+                                      "value" : {
+                                        "type" : 1499,
+                                        "typeName" : "BTFSValueArray",
+                                        "message" : {
+                                          "value" : [ {
+                                            "type" : 772,
+                                            "typeName" : "BTFSValueNumber",
+                                            "message" : {
+                                              "value" : 0.0,
+                                              "typeTag" : ""
+                                            }
+                                          }, {
+                                            "type" : 772,
+                                            "typeName" : "BTFSValueNumber",
+                                            "message" : {
+                                              "value" : 0.0,
+                                              "typeTag" : ""
+                                            }
+                                          }, {
+                                            "type" : 772,
+                                            "typeName" : "BTFSValueNumber",
+                                            "message" : {
+                                              "value" : 1.0,
+                                              "typeTag" : ""
+                                            }
+                                          } ],
+                                          "typeTag" : "Vector"
+                                        }
+                                      }
+                                    }
+                                  } ],
+                                  "typeTag" : "CoordSystem"
+                                }
+                              }
+                            }
+                          }, {
+                            "type" : 2077,
+                            "typeName" : "BTFSValueMapEntry",
+                            "message" : {
+                              "key" : {
+                                "type" : 1422,
+                                "typeName" : "BTFSValueString",
+                                "message" : {
+                                  "value" : "radius",
+                                  "typeTag" : ""
+                                }
+                              },
+                              "value" : {
+                                "type" : 1817,
+                                "typeName" : "BTFSValueWithUnits",
+                                "message" : {
+                                  "value" : 0.03937,
+                                  "unitToPower" : [ {
+                                    "key" : "METER",
+                                    "value" : 1
+                                  } ],
+                                  "typeTag" : ""
+                                }
+                              }
+                            }
+                          } ],
+                          "typeTag" : "Circle"
+                        }
+                      }
+                    }
+                  }, {
+                    "type" : 2077,
+                    "typeName" : "BTFSValueMapEntry",
+                    "message" : {
+                      "key" : {
+                        "type" : 1422,
+                        "typeName" : "BTFSValueString",
+                        "message" : {
+                          "value" : "vertices",
+                          "typeTag" : ""
+                        }
+                      },
+                      "value" : {
+                        "type" : 1499,
+                        "typeName" : "BTFSValueArray",
+                        "message" : {
+                          "value" : [ ],
+                          "typeTag" : ""
+                        }
+                      }
+                    }
+                  } ],
+                  "typeTag" : ""
+                }
+              } ],
+              "typeTag" : ""
+            }
+          }
+        }
+      }, {
+        "type" : 2077,
+        "typeName" : "BTFSValueMapEntry",
+        "message" : {
+          "key" : {
+            "type" : 1422,
+            "typeName" : "BTFSValueString",
+            "message" : {
+              "value" : "faces",
+              "typeTag" : ""
+            }
+          },
+          "value" : {
+            "type" : 1499,
+            "typeName" : "BTFSValueArray",
+            "message" : {
+              "value" : [ {
+                "type" : 2062,
+                "typeName" : "BTFSValueMap",
+                "message" : {
+                  "value" : [ {
+                    "type" : 2077,
+                    "typeName" : "BTFSValueMapEntry",
+                    "message" : {
+                      "key" : {
+                        "type" : 1422,
+                        "typeName" : "BTFSValueString",
+                        "message" : {
+                          "value" : "edges",
+                          "typeTag" : ""
+                        }
+                      },
+                      "value" : {
+                        "type" : 1499,
+                        "typeName" : "BTFSValueArray",
+                        "message" : {
+                          "value" : [ {
+                            "type" : 1422,
+                            "typeName" : "BTFSValueString",
+                            "message" : {
+                              "value" : "JGB",
+                              "typeTag" : ""
+                            }
+                          } ],
+                          "typeTag" : ""
+                        }
+                      }
+                    }
+                  }, {
+                    "type" : 2077,
+                    "typeName" : "BTFSValueMapEntry",
+                    "message" : {
+                      "key" : {
+                        "type" : 1422,
+                        "typeName" : "BTFSValueString",
+                        "message" : {
+                          "value" : "id",
+                          "typeTag" : ""
+                        }
+                      },
+                      "value" : {
+                        "type" : 1422,
+                        "typeName" : "BTFSValueString",
+                        "message" : {
+                          "value" : "JGC",
+                          "typeTag" : ""
+                        }
+                      }
+                    }
+                  }, {
+                    "type" : 2077,
+                    "typeName" : "BTFSValueMapEntry",
+                    "message" : {
+                      "key" : {
+                        "type" : 1422,
+                        "typeName" : "BTFSValueString",
+                        "message" : {
+                          "value" : "param",
+                          "typeTag" : ""
+                        }
+                      },
+                      "value" : {
+                        "type" : 2062,
+                        "typeName" : "BTFSValueMap",
+                        "message" : {
+                          "value" : [ {
+                            "type" : 2077,
+                            "typeName" : "BTFSValueMapEntry",
+                            "message" : {
+                              "key" : {
+                                "type" : 1422,
+                                "typeName" : "BTFSValueString",
+                                "message" : {
+                                  "value" : "normal",
+                                  "typeTag" : ""
+                                }
+                              },
+                              "value" : {
+                                "type" : 1499,
+                                "typeName" : "BTFSValueArray",
+                                "message" : {
+                                  "value" : [ {
+                                    "type" : 772,
+                                    "typeName" : "BTFSValueNumber",
+                                    "message" : {
+                                      "value" : 0.0,
+                                      "typeTag" : ""
+                                    }
+                                  }, {
+                                    "type" : 772,
+                                    "typeName" : "BTFSValueNumber",
+                                    "message" : {
+                                      "value" : 0.0,
+                                      "typeTag" : ""
+                                    }
+                                  }, {
+                                    "type" : 772,
+                                    "typeName" : "BTFSValueNumber",
+                                    "message" : {
+                                      "value" : 1.0,
+                                      "typeTag" : ""
+                                    }
+                                  } ],
+                                  "typeTag" : "Vector"
+                                }
+                              }
+                            }
+                          }, {
+                            "type" : 2077,
+                            "typeName" : "BTFSValueMapEntry",
+                            "message" : {
+                              "key" : {
+                                "type" : 1422,
+                                "typeName" : "BTFSValueString",
+                                "message" : {
+                                  "value" : "origin",
+                                  "typeTag" : ""
+                                }
+                              },
+                              "value" : {
+                                "type" : 1499,
+                                "typeName" : "BTFSValueArray",
+                                "message" : {
+                                  "value" : [ {
+                                    "type" : 1817,
+                                    "typeName" : "BTFSValueWithUnits",
+                                    "message" : {
+                                      "value" : 0.0,
+                                      "unitToPower" : [ {
+                                        "key" : "METER",
+                                        "value" : 1
+                                      } ],
+                                      "typeTag" : ""
+                                    }
+                                  }, {
+                                    "type" : 1817,
+                                    "typeName" : "BTFSValueWithUnits",
+                                    "message" : {
+                                      "value" : 0.0,
+                                      "unitToPower" : [ {
+                                        "key" : "METER",
+                                        "value" : 1
+                                      } ],
+                                      "typeTag" : ""
+                                    }
+                                  }, {
+                                    "type" : 1817,
+                                    "typeName" : "BTFSValueWithUnits",
+                                    "message" : {
+                                      "value" : 0.0,
+                                      "unitToPower" : [ {
+                                        "key" : "METER",
+                                        "value" : 1
+                                      } ],
+                                      "typeTag" : ""
+                                    }
+                                  } ],
+                                  "typeTag" : "Vector"
+                                }
+                              }
+                            }
+                          }, {
+                            "type" : 2077,
+                            "typeName" : "BTFSValueMapEntry",
+                            "message" : {
+                              "key" : {
+                                "type" : 1422,
+                                "typeName" : "BTFSValueString",
+                                "message" : {
+                                  "value" : "x",
+                                  "typeTag" : ""
+                                }
+                              },
+                              "value" : {
+                                "type" : 1499,
+                                "typeName" : "BTFSValueArray",
+                                "message" : {
+                                  "value" : [ {
+                                    "type" : 772,
+                                    "typeName" : "BTFSValueNumber",
+                                    "message" : {
+                                      "value" : 1.0,
+                                      "typeTag" : ""
+                                    }
+                                  }, {
+                                    "type" : 772,
+                                    "typeName" : "BTFSValueNumber",
+                                    "message" : {
+                                      "value" : 0.0,
+                                      "typeTag" : ""
+                                    }
+                                  }, {
+                                    "type" : 772,
+                                    "typeName" : "BTFSValueNumber",
+                                    "message" : {
+                                      "value" : 0.0,
+                                      "typeTag" : ""
+                                    }
+                                  } ],
+                                  "typeTag" : "Vector"
+                                }
+                              }
+                            }
+                          } ],
+                          "typeTag" : "Plane"
+                        }
+                      }
+                    }
+                  } ],
+                  "typeTag" : ""
+                }
+              }, {
+                "type" : 2062,
+                "typeName" : "BTFSValueMap",
+                "message" : {
+                  "value" : [ {
+                    "type" : 2077,
+                    "typeName" : "BTFSValueMapEntry",
+                    "message" : {
+                      "key" : {
+                        "type" : 1422,
+                        "typeName" : "BTFSValueString",
+                        "message" : {
+                          "value" : "edges",
+                          "typeTag" : ""
+                        }
+                      },
+                      "value" : {
+                        "type" : 1499,
+                        "typeName" : "BTFSValueArray",
+                        "message" : {
+                          "value" : [ {
+                            "type" : 1422,
+                            "typeName" : "BTFSValueString",
+                            "message" : {
+                              "value" : "JGB",
+                              "typeTag" : ""
+                            }
+                          }, {
+                            "type" : 1422,
+                            "typeName" : "BTFSValueString",
+                            "message" : {
+                              "value" : "JGF",
+                              "typeTag" : ""
+                            }
+                          } ],
+                          "typeTag" : ""
+                        }
+                      }
+                    }
+                  }, {
+                    "type" : 2077,
+                    "typeName" : "BTFSValueMapEntry",
+                    "message" : {
+                      "key" : {
+                        "type" : 1422,
+                        "typeName" : "BTFSValueString",
+                        "message" : {
+                          "value" : "id",
+                          "typeTag" : ""
+                        }
+                      },
+                      "value" : {
+                        "type" : 1422,
+                        "typeName" : "BTFSValueString",
+                        "message" : {
+                          "value" : "JGG",
+                          "typeTag" : ""
+                        }
+                      }
+                    }
+                  }, {
+                    "type" : 2077,
+                    "typeName" : "BTFSValueMapEntry",
+                    "message" : {
+                      "key" : {
+                        "type" : 1422,
+                        "typeName" : "BTFSValueString",
+                        "message" : {
+                          "value" : "param",
+                          "typeTag" : ""
+                        }
+                      },
+                      "value" : {
+                        "type" : 2062,
+                        "typeName" : "BTFSValueMap",
+                        "message" : {
+                          "value" : [ {
+                            "type" : 2077,
+                            "typeName" : "BTFSValueMapEntry",
+                            "message" : {
+                              "key" : {
+                                "type" : 1422,
+                                "typeName" : "BTFSValueString",
+                                "message" : {
+                                  "value" : "normal",
+                                  "typeTag" : ""
+                                }
+                              },
+                              "value" : {
+                                "type" : 1499,
+                                "typeName" : "BTFSValueArray",
+                                "message" : {
+                                  "value" : [ {
+                                    "type" : 772,
+                                    "typeName" : "BTFSValueNumber",
+                                    "message" : {
+                                      "value" : 0.0,
+                                      "typeTag" : ""
+                                    }
+                                  }, {
+                                    "type" : 772,
+                                    "typeName" : "BTFSValueNumber",
+                                    "message" : {
+                                      "value" : 0.0,
+                                      "typeTag" : ""
+                                    }
+                                  }, {
+                                    "type" : 772,
+                                    "typeName" : "BTFSValueNumber",
+                                    "message" : {
+                                      "value" : 1.0,
+                                      "typeTag" : ""
+                                    }
+                                  } ],
+                                  "typeTag" : "Vector"
+                                }
+                              }
+                            }
+                          }, {
+                            "type" : 2077,
+                            "typeName" : "BTFSValueMapEntry",
+                            "message" : {
+                              "key" : {
+                                "type" : 1422,
+                                "typeName" : "BTFSValueString",
+                                "message" : {
+                                  "value" : "origin",
+                                  "typeTag" : ""
+                                }
+                              },
+                              "value" : {
+                                "type" : 1499,
+                                "typeName" : "BTFSValueArray",
+                                "message" : {
+                                  "value" : [ {
+                                    "type" : 1817,
+                                    "typeName" : "BTFSValueWithUnits",
+                                    "message" : {
+                                      "value" : 0.0,
+                                      "unitToPower" : [ {
+                                        "key" : "METER",
+                                        "value" : 1
+                                      } ],
+                                      "typeTag" : ""
+                                    }
+                                  }, {
+                                    "type" : 1817,
+                                    "typeName" : "BTFSValueWithUnits",
+                                    "message" : {
+                                      "value" : 0.0,
+                                      "unitToPower" : [ {
+                                        "key" : "METER",
+                                        "value" : 1
+                                      } ],
+                                      "typeTag" : ""
+                                    }
+                                  }, {
+                                    "type" : 1817,
+                                    "typeName" : "BTFSValueWithUnits",
+                                    "message" : {
+                                      "value" : 0.0,
+                                      "unitToPower" : [ {
+                                        "key" : "METER",
+                                        "value" : 1
+                                      } ],
+                                      "typeTag" : ""
+                                    }
+                                  } ],
+                                  "typeTag" : "Vector"
+                                }
+                              }
+                            }
+                          }, {
+                            "type" : 2077,
+                            "typeName" : "BTFSValueMapEntry",
+                            "message" : {
+                              "key" : {
+                                "type" : 1422,
+                                "typeName" : "BTFSValueString",
+                                "message" : {
+                                  "value" : "x",
+                                  "typeTag" : ""
+                                }
+                              },
+                              "value" : {
+                                "type" : 1499,
+                                "typeName" : "BTFSValueArray",
+                                "message" : {
+                                  "value" : [ {
+                                    "type" : 772,
+                                    "typeName" : "BTFSValueNumber",
+                                    "message" : {
+                                      "value" : 1.0,
+                                      "typeTag" : ""
+                                    }
+                                  }, {
+                                    "type" : 772,
+                                    "typeName" : "BTFSValueNumber",
+                                    "message" : {
+                                      "value" : 0.0,
+                                      "typeTag" : ""
+                                    }
+                                  }, {
+                                    "type" : 772,
+                                    "typeName" : "BTFSValueNumber",
+                                    "message" : {
+                                      "value" : 0.0,
+                                      "typeTag" : ""
+                                    }
+                                  } ],
+                                  "typeTag" : "Vector"
+                                }
+                              }
+                            }
+                          } ],
+                          "typeTag" : "Plane"
+                        }
+                      }
+                    }
+                  } ],
+                  "typeTag" : ""
+                }
+              } ],
+              "typeTag" : ""
+            }
+          }
+        }
+      }, {
+        "type" : 2077,
+        "typeName" : "BTFSValueMapEntry",
+        "message" : {
+          "key" : {
+            "type" : 1422,
+            "typeName" : "BTFSValueString",
+            "message" : {
+              "value" : "vertices",
+              "typeTag" : ""
+            }
+          },
+          "value" : {
+            "type" : 1499,
+            "typeName" : "BTFSValueArray",
+            "message" : {
+              "value" : [ ],
+              "typeTag" : ""
+            }
+          }
+        }
+      } ],
+      "typeTag" : ""
+    }
+  },
+  "serializationVersion" : "1.1.21",
+  "sourceMicroversion" : "703ba14588b3a38c2e06bb28",
+  "rejectMicroversionSkew" : false,
+  "microversionSkew" : false,
+  "libraryVersion" : 1511
+}

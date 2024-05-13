@@ -1,0 +1,186 @@
+{
+    "feature": {
+        "type": 134,
+        "typeName": "BTMFeature",
+        "message": {
+            "featureType": "fillet",
+            "featureId": "FbX0fJKsaqWR0EB_1",
+            "name": "Fillet 1",
+            "parameters": [
+                {
+                    "type": 145,
+                    "typeName": "BTMParameterEnum",
+                    "message": {
+                        "enumName": "FilletType",
+                        "value": "EDGE",
+                        "namespace": "",
+                        "parameterId": "filletType",
+                        "hasUserCode": false,
+                        "nodeId": "D6mU7dz8/Uyc3XSH"
+                    }
+                },
+                {
+                    "type": 148,
+                    "typeName": "BTMParameterQueryList",
+                    "message": {
+                        "queries": [
+                        ],
+                        "parameterId": "entities",
+                        "hasUserCode": false,
+                        "nodeId": "nEwHavEPsii4rT9N"
+                    }
+                },
+                {
+                    "type": 148,
+                    "typeName": "BTMParameterQueryList",
+                    "message": {
+                        "queries": [],
+                        "parameterId": "side1Face",
+                        "hasUserCode": false,
+                        "nodeId": "hFcAhNm3pDr6yjSo"
+                    }
+                },
+                {
+                    "type": 148,
+                    "typeName": "BTMParameterQueryList",
+                    "message": {
+                        "queries": [],
+                        "parameterId": "side2Face",
+                        "hasUserCode": false,
+                        "nodeId": "lyQ6Hdd/QlGKtMGx"
+                    }
+                },
+                {
+                    "type": 148,
+                    "typeName": "BTMParameterQueryList",
+                    "message": {
+                        "queries": [],
+                        "parameterId": "centerFaces",
+                        "hasUserCode": false,
+                        "nodeId": "wfyXFXq3b/UPXtme"
+                    }
+                },
+                {
+                    "type": 144,
+                    "typeName": "BTMParameterBoolean",
+                    "message": {
+                        "value": true,
+                        "parameterId": "tangentPropagation",
+                        "hasUserCode": false,
+                        "nodeId": "3OSt6M3rU+Z2aby5"
+                    }
+                },
+                {
+                    "type": 145,
+                    "typeName": "BTMParameterEnum",
+                    "message": {
+                        "enumName": "FilletCrossSection",
+                        "value": "CIRCULAR",
+                        "namespace": "",
+                        "parameterId": "crossSection",
+                        "hasUserCode": false,
+                        "nodeId": "PkUOVM5NVwTIz04k"
+                    }
+                },
+                {
+                    "type": 147,
+                    "typeName": "BTMParameterQuantity",
+                    "message": {
+                        "units": "",
+                        "value": 0.0,
+                        "expression": "0.265563 cm",
+                        "isInteger": false,
+                        "parameterId": "radius",
+                        "hasUserCode": false,
+                        "nodeId": "HoK2SUEazy+SarnT"
+                    }
+                },
+                {
+                    "type": 147,
+                    "typeName": "BTMParameterQuantity",
+                    "message": {
+                        "units": "",
+                        "value": 0.0,
+                        "expression": "0.5",
+                        "isInteger": false,
+                        "parameterId": "rho",
+                        "hasUserCode": false,
+                        "nodeId": "g9r7Axv4y4rHRZll"
+                    }
+                },
+                {
+                    "type": 147,
+                    "typeName": "BTMParameterQuantity",
+                    "message": {
+                        "units": "",
+                        "value": 0.0,
+                        "expression": "0.5",
+                        "isInteger": false,
+                        "parameterId": "magnitude",
+                        "hasUserCode": false,
+                        "nodeId": "D1xS8KJbsnAbLjoQ"
+                    }
+                },
+                {
+                    "type": 144,
+                    "typeName": "BTMParameterBoolean",
+                    "message": {
+                        "value": false,
+                        "parameterId": "defaultsChanged",
+                        "hasUserCode": false,
+                        "nodeId": "WFfaK+6sSS/+Dp8A"
+                    }
+                },
+                {
+                    "type": 144,
+                    "typeName": "BTMParameterBoolean",
+                    "message": {
+                        "value": true,
+                        "parameterId": "allowEdgeOverflow",
+                        "hasUserCode": false,
+                        "nodeId": "FGwR5YdXUxkntrte"
+                    }
+                },
+                {
+                    "type": 144,
+                    "typeName": "BTMParameterBoolean",
+                    "message": {
+                        "value": false,
+                        "parameterId": "isVariable",
+                        "hasUserCode": false,
+                        "nodeId": "ik3+N5/Wkqnko0Rx"
+                    }
+                },
+                {
+                    "type": 2025,
+                    "typeName": "BTMParameterArray",
+                    "message": {
+                        "items": [],
+                        "parameterId": "vertexSettings",
+                        "hasUserCode": false,
+                        "nodeId": "k/Cp8oCmigg0r7bU"
+                    }
+                },
+                {
+                    "type": 144,
+                    "typeName": "BTMParameterBoolean",
+                    "message": {
+                        "value": false,
+                        "parameterId": "smoothTransition",
+                        "hasUserCode": false,
+                        "nodeId": "EcZrpxUtaaHtOmRB"
+                    }
+                }
+            ],
+            "suppressed": false,
+            "namespace": "",
+            "subFeatures": [],
+            "returnAfterSubfeatures": false,
+            "suppressionState": {
+                "type": 0
+            },
+            "hasUserCode": false,
+            "nodeId": "9WVAMBCP1h3Fw6Aq"
+        }
+    }
+}

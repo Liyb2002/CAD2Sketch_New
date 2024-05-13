@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<svg width="1000" height="1000" pen_width="0" xmlns="http://www.w3.org/2000/svg">
+	<polyline points="668.0656620436182,708.9779096156515 448.4582874955575,809.5888968829574 " curvature_circle="0 0 " pressure="0.5 0.5 " style="fill:none; stroke:black;stroke-opacity:0.5; stroke-width:0.25; "/>
+	<polyline points="536.9510429888941,584.0458513004878 668.0656620436182,708.9779096156515 " curvature_circle="0 0 " pressure="0.5 0.5 " style="fill:none; stroke:black;stroke-opacity:0.5; stroke-width:0.25; "/>
+	<polyline points="536.9510429888941,584.0458513004878 346.15611330011654,650.0717803130351 " curvature_circle="0 0 " pressure="0.5 0.5 " style="fill:none; stroke:black;stroke-opacity:0.5; stroke-width:0.25; "/>
+	<polyline points="346.15611330011654,650.0717803130351 448.4582874955575,809.5888968829574 " curvature_circle="0 0 " pressure="0.5 0.5 " style="fill:none; stroke:black;stroke-opacity:0.5; stroke-width:0.25; "/>
+	<polyline points="668.0656620436182,708.9779096156515 715.1164077382667,358.34721169706427 " curvature_circle="0 0 " pressure="0.5 0.5 " style="fill:none; stroke:black;stroke-opacity:0.5; stroke-width:0.25; "/>
+	<polyline points="431.2470703602751,424.95574065208933 448.4582874955575,809.5888968829574 " curvature_circle="0 0 " pressure="0.5 0.5 " style="fill:none; stroke:black;stroke-opacity:0.5; stroke-width:0.25; "/>
+	<polyline points="715.1164077382667,358.34721169706427 431.2470703602751,424.95574065208933 " curvature_circle="0 0 " pressure="0.5 0.5 " style="fill:none; stroke:black;stroke-opacity:0.5; stroke-width:0.25; "/>
+	<polyline points="536.9510429888941,584.0458513004878 545.0330584199894,282.78046868843603 " curvature_circle="0 0 " pressure="0.5 0.5 " style="fill:none; stroke:black;stroke-opacity:0.5; stroke-width:0.25; "/>
+	<polyline points="545.0330584199894,282.78046868843603 715.1164077382667,358.34721169706427 " curvature_circle="0 0 " pressure="0.5 0.5 " style="fill:none; stroke:black;stroke-opacity:0.5; stroke-width:0.25; "/>
+	<polyline points="307.6437102243125,321.79289232269764 346.15611330011654,650.0717803130351 " curvature_circle="0 0 " pressure="0.5 0.5 " style="fill:none; stroke:black;stroke-opacity:0.5; stroke-width:0.25; "/>
+	<polyline points="545.0330584199894,282.78046868843603 307.6437102243125,321.79289232269764 " curvature_circle="0 0 " pressure="0.5 0.5 " style="fill:none; stroke:black;stroke-opacity:0.5; stroke-width:0.25; "/>
+	<polyline points="307.6437102243125,321.79289232269764 431.2470703602751,424.95574065208933 " curvature_circle="0 0 " pressure="1.0 1.0 " style="fill:none; stroke:black;stroke-opacity:1.0; stroke-width:5.0; "/>
+</svg>

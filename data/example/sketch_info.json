@@ -1,0 +1,339 @@
+{
+    "sketches": [
+        {
+            "sketch": "My Sketch",
+            "featureId": "FOhJSbWaPd1qnPg_1",
+            "featuresUsed": [
+                "Extrude 1"
+            ],
+            "geomEntities": [
+                {
+                    "id": "c0",
+                    "entityType": "circle",
+                    "center": [
+                        0.0,
+                        -0.005,
+                        0.0075
+                    ],
+                    "radius": 0.0025
+                },
+                {
+                    "id": "c0.center",
+                    "entityType": "point",
+                    "point": [
+                        0.0,
+                        -0.005,
+                        0.0075
+                    ],
+                    "isConstruction": true
+                }
+            ]
+        },
+        {
+            "sketch": "My Sketch",
+            "featureId": "FHPaQ9iDTVaFEbR_1",
+            "featuresUsed": [
+                "Extrude 1"
+            ],
+            "geomEntities": [
+                {
+                    "id": "l0.start",
+                    "entityType": "point",
+                    "point": [
+                        -0.005,
+                        0.0025,
+                        0.015
+                    ]
+                },
+                {
+                    "id": "l0.end",
+                    "entityType": "point",
+                    "point": [
+                        -0.005,
+                        -0.0025,
+                        0.015
+                    ]
+                },
+                {
+                    "id": "l0",
+                    "entityType": "lineSegment",
+                    "startPoint": [
+                        -0.005,
+                        0.0025,
+                        0.015
+                    ],
+                    "endPoint": [
+                        -0.005,
+                        -0.0025,
+                        0.015
+                    ],
+                    "endPointIds": [
+                        "l0.start",
+                        "l0.end"
+                    ]
+                },
+                {
+                    "id": "l1.start",
+                    "entityType": "point",
+                    "point": [
+                        -0.005,
+                        -0.0025,
+                        0.015
+                    ]
+                },
+                {
+                    "id": "l1.end",
+                    "entityType": "point",
+                    "point": [
+                        0.0,
+                        -0.0025,
+                        0.015
+                    ]
+                },
+                {
+                    "id": "l1",
+                    "entityType": "lineSegment",
+                    "startPoint": [
+                        -0.005,
+                        -0.0025,
+                        0.015
+                    ],
+                    "endPoint": [
+                        0.0,
+                        -0.0025,
+                        0.015
+                    ],
+                    "endPointIds": [
+                        "l1.start",
+                        "l1.end"
+                    ]
+                },
+                {
+                    "id": "l2.start",
+                    "entityType": "point",
+                    "point": [
+                        0.0,
+                        -0.0025,
+                        0.015
+                    ]
+                },
+                {
+                    "id": "l2.end",
+                    "entityType": "point",
+                    "point": [
+                        0.0,
+                        0.0025,
+                        0.015
+                    ]
+                },
+                {
+                    "id": "l2",
+                    "entityType": "lineSegment",
+                    "startPoint": [
+                        0.0,
+                        -0.0025,
+                        0.015
+                    ],
+                    "endPoint": [
+                        0.0,
+                        0.0025,
+                        0.015
+                    ],
+                    "endPointIds": [
+                        "l2.start",
+                        "l2.end"
+                    ]
+                },
+                {
+                    "id": "l3.start",
+                    "entityType": "point",
+                    "point": [
+                        0.0,
+                        0.0025,
+                        0.015
+                    ]
+                },
+                {
+                    "id": "l3.end",
+                    "entityType": "point",
+                    "point": [
+                        -0.005,
+                        0.0025,
+                        0.015
+                    ]
+                },
+                {
+                    "id": "l3",
+                    "entityType": "lineSegment",
+                    "startPoint": [
+                        0.0,
+                        0.0025,
+                        0.015
+                    ],
+                    "endPoint": [
+                        -0.005,
+                        0.0025,
+                        0.015
+                    ],
+                    "endPointIds": [
+                        "l3.start",
+                        "l3.end"
+                    ]
+                }
+            ]
+        },
+        {
+            "sketch": "My Sketch",
+            "featureId": "FiuCDq4ulk93SJv_0",
+            "featuresUsed": [
+                "Extrude 1"
+            ],
+            "geomEntities": [
+                {
+                    "id": "l0.start",
+                    "entityType": "point",
+                    "point": [
+                        -0.005,
+                        0.005,
+                        0.0
+                    ]
+                },
+                {
+                    "id": "l0.end",
+                    "entityType": "point",
+                    "point": [
+                        -0.005,
+                        -0.005,
+                        0.0
+                    ]
+                },
+                {
+                    "id": "l0",
+                    "entityType": "lineSegment",
+                    "startPoint": [
+                        -0.005,
+                        0.005,
+                        0.0
+                    ],
+                    "endPoint": [
+                        -0.005,
+                        -0.005,
+                        0.0
+                    ],
+                    "endPointIds": [
+                        "l0.start",
+                        "l0.end"
+                    ]
+                },
+                {
+                    "id": "l1.start",
+                    "entityType": "point",
+                    "point": [
+                        -0.005,
+                        -0.005,
+                        0.0
+                    ]
+                },
+                {
+                    "id": "l1.end",
+                    "entityType": "point",
+                    "point": [
+                        0.005,
+                        -0.005,
+                        0.0
+                    ]
+                },
+                {
+                    "id": "l1",
+                    "entityType": "lineSegment",
+                    "startPoint": [
+                        -0.005,
+                        -0.005,
+                        0.0
+                    ],
+                    "endPoint": [
+                        0.005,
+                        -0.005,
+                        0.0
+                    ],
+                    "endPointIds": [
+                        "l1.start",
+                        "l1.end"
+                    ]
+                },
+                {
+                    "id": "l2.start",
+                    "entityType": "point",
+                    "point": [
+                        0.005,
+                        -0.005,
+                        0.0
+                    ]
+                },
+                {
+                    "id": "l2.end",
+                    "entityType": "point",
+                    "point": [
+                        0.005,
+                        0.005,
+                        0.0
+                    ]
+                },
+                {
+                    "id": "l2",
+                    "entityType": "lineSegment",
+                    "startPoint": [
+                        0.005,
+                        -0.005,
+                        0.0
+                    ],
+                    "endPoint": [
+                        0.005,
+                        0.005,
+                        0.0
+                    ],
+                    "endPointIds": [
+                        "l2.start",
+                        "l2.end"
+                    ]
+                },
+                {
+                    "id": "l3.start",
+                    "entityType": "point",
+                    "point": [
+                        0.005,
+                        0.005,
+                        0.0
+                    ]
+                },
+                {
+                    "id": "l3.end",
+                    "entityType": "point",
+                    "point": [
+                        -0.005,
+                        0.005,
+                        0.0
+                    ]
+                },
+                {
+                    "id": "l3",
+                    "entityType": "lineSegment",
+                    "startPoint": [
+                        0.005,
+                        0.005,
+                        0.0
+                    ],
+                    "endPoint": [
+                        -0.005,
+                        0.005,
+                        0.0
+                    ],
+                    "endPointIds": [
+                        "l3.start",
+                        "l3.end"
+                    ]
+                }
+            ]
+        }
+    ]
+}
